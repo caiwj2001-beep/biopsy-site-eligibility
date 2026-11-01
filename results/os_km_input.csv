@@ -1,0 +1,2210 @@
+﻿patient,os_months,event,discordant,cancer,organ
+P-0000012,90.181,0,1,Non-Small Cell Lung Cancer,Neck
+P-0000083,89.063,0,0,Bladder Cancer,Liver
+P-0000113,88.57,0,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0000114,10.981,1,0,Hepatobiliary Cancer,Lymph Node
+P-0000115,89.063,0,0,Esophagogastric Cancer,Lung
+P-0000120,60.362,1,1,Breast Cancer,Liver
+P-0000122,78.575,1,0,Soft Tissue Sarcoma,Pelvis
+P-0000134,11.079,1,1,Gastrointestinal Stromal Tumor,Liver
+P-0000184,50.531,1,0,Bladder Cancer,Lymph node
+P-0000196,88.57,0,0,Breast Cancer,Lung
+P-0000208,12.855,1,0,Non-Small Cell Lung Cancer,Subcutaneous Tissue
+P-0000219,87.551,0,0,Non-Small Cell Lung Cancer,Soft Tissue
+P-0000228,19.068,0,1,Hepatobiliary Cancer,Bone
+P-0000242,9.074,1,0,Breast Cancer,Ovary
+P-0000282,21.074,1,0,Esophagogastric Cancer,Ovary
+P-0000302,87.912,0,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0000335,6.707,1,0,Breast Cancer,Skin
+P-0000369,36.822,1,0,Esophagogastric Cancer,Bone
+P-0000377,30.115,1,0,Prostate Cancer,Liver
+P-0000386,11.112,1,0,Bladder Cancer,Lung
+P-0000391,79.989,1,0,Prostate Cancer,Mediastinum
+P-0000444,23.277,1,0,Esophagogastric Cancer,Liver
+P-0000476,87.025,0,0,CNS Cancer,Unspecified
+P-0000501,27.518,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0000505,71.836,1,1,Prostate Cancer,Lymph Node
+P-0000508,79.068,1,0,Breast Cancer,Pelvis
+P-0000509,74.827,1,0,Prostate Cancer,Soft Tissue
+P-0000514,81.304,1,0,Breast Cancer,Liver
+P-0000525,16.142,1,0,Breast Cancer,Liver
+P-0000532,13.973,1,0,Breast Cancer,Liver
+P-0000541,34.948,1,1,Prostate Cancer,Liver
+P-0000585,86.137,0,1,Breast Cancer,Lymph Node
+P-0000595,36.986,1,0,Breast Cancer,Axilla
+P-0000623,24.164,1,1,Salivary Gland Cancer,Lung
+P-0000624,14.334,1,1,Breast Cancer,Liver
+P-0000627,60.0,1,0,Non-Small Cell Lung Cancer,Brain
+P-0000640,19.923,1,1,Prostate Cancer,Bladder
+P-0000655,22.258,0,0,Prostate Cancer,Pelvis
+P-0000675,85.874,0,1,Colorectal Cancer,Lymph node
+P-0000797,4.405,1,0,Esophagogastric Cancer,Peritoneum
+P-0000820,8.975,1,0,Breast Cancer,Pelvis
+P-0000825,85.183,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0000828,71.803,1,0,Prostate Cancer,Pelvis
+P-0000836,83.671,0,0,Thyroid Cancer,Liver
+P-0000839,22.192,1,0,Endometrial Cancer,Abdomen
+P-0000840,69.797,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0000842,17.096,1,1,Prostate Cancer,Bone
+P-0000847,48.559,1,1,Prostate Cancer,Lymph Node
+P-0000903,3.058,0,0,Non-Small Cell Lung Cancer,Adrenal Gland
+P-0000904,85.052,0,0,Thyroid Cancer,Soft Tissue
+P-0000913,38.729,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0000964,52.504,1,0,Prostate Cancer,Soft Tissue
+P-0000978,22.422,1,1,Non-Small Cell Lung Cancer,Pleura
+P-0000982,8.647,1,0,Colorectal Cancer,Liver
+P-0000984,83.737,0,0,Breast Cancer,Axilla
+P-0000997,8.384,1,0,Colorectal Cancer,Abdomen
+P-0001018,84.756,0,0,Thyroid Cancer,Brain
+P-0001040,7.956,1,0,Esophagogastric Cancer,Peritoneum
+P-0001047,15.847,1,0,Esophagogastric Cancer,Omentum
+P-0001054,77.885,0,0,Colorectal Cancer,Liver
+P-0001055,65.49,1,0,CNS Cancer,Soft Tissue
+P-0001104,8.219,1,0,Colorectal Cancer,Liver
+P-0001123,49.71,1,0,Non-Small Cell Lung Cancer,Bone
+P-0001196,50.334,1,0,Non-Small Cell Lung Cancer,Bone
+P-0001204,24.493,1,1,Prostate Cancer,Brain
+P-0001221,49.184,1,0,Prostate Cancer,Soft Tissue
+P-0001232,84.263,0,0,Renal Cell Carcinoma,Bone
+P-0001242,76.307,1,1,Prostate Cancer,Iliac Bone
+P-0001243,84.131,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0001244,81.041,0,0,Prostate Cancer,Bone
+P-0001281,80.712,1,0,Glioma,Unspecified
+P-0001319,17.655,1,0,Prostate Cancer,Soft Tissue
+P-0001325,5.721,1,0,Prostate Cancer,Flank
+P-0001326,79.496,1,0,Glioma,Unspecified
+P-0001332,83.671,0,0,Prostate Cancer,Lymph Node
+P-0001342,56.022,0,0,Renal Cell Carcinoma,Lung
+P-0001372,37.184,1,0,Breast Cancer,Pleura
+P-0001377,80.351,0,0,Bone Cancer,Heart
+P-0001402,76.734,0,0,Appendiceal Cancer,Peritoneum
+P-0001403,83.178,0,0,Hepatobiliary Cancer,Lung
+P-0001417,13.348,1,0,Breast Cancer,Lymph Node
+P-0001424,3.781,1,0,Colorectal Cancer,Liver
+P-0001425,56.482,1,0,Glioma,Unspecified
+P-0001449,25.282,1,0,Prostate Cancer,Liver
+P-0001500,13.71,1,0,Colorectal Cancer,Brain
+P-0001504,33.699,0,0,Breast Cancer,Chest Wall
+P-0001526,42.082,1,0,Pancreatic Cancer,Liver
+P-0001531,46.718,1,1,Colorectal Cancer,Peritoneum
+P-0001550,80.712,1,0,Non-Small Cell Lung Cancer,Iliac Bone
+P-0001551,19.101,1,0,Esophagogastric Cancer,Lung
+P-0001558,41.688,1,0,Breast Cancer,Bone
+P-0001598,82.718,0,0,Head and Neck Cancer,Eyelid
+P-0001631,82.948,0,0,Breast Cancer,Liver
+P-0001639,81.929,0,0,Prostate Cancer,Lymph Node
+P-0001640,48.559,0,0,Colorectal Cancer,Liver
+P-0001652,79.562,1,1,Soft Tissue Sarcoma,Lymph Node
+P-0001680,2.532,0,0,Non-Small Cell Lung Cancer,Cervix
+P-0001681,82.323,0,0,Ovarian Cancer,Lymph Node
+P-0001684,83.014,0,0,Prostate Cancer,Brain
+P-0001692,48.657,1,0,Gastrointestinal Stromal Tumor,Mesentery
+P-0001694,79.036,0,0,Prostate Cancer,Lung
+P-0001712,36.263,1,0,Mesothelioma,Liver
+P-0001747,16.077,1,1,Ovarian Cancer,Peritoneum
+P-0001756,41.819,1,0,Melanoma,Paraspinal
+P-0001766,75.057,0,0,Non-Small Cell Lung Cancer,Liver
+P-0001767,81.304,0,1,Colorectal Cancer,Liver
+P-0001768,40.175,1,0,Prostate Cancer,Lymph Node
+P-0001776,52.373,1,1,Prostate Cancer,Liver
+P-0001785,42.115,1,1,Breast Cancer,Lung
+P-0001800,81.699,0,0,Thyroid Cancer,Kidney
+P-0001813,4.471,1,0,Non-Small Cell Lung Cancer,Liver
+P-0001829,81.6,0,1,Prostate Cancer,Sacral Mass
+P-0001830,19.956,1,0,Non-Small Cell Lung Cancer,Liver
+P-0001855,53.918,1,0,Esophagogastric Cancer,Liver
+P-0001876,81.205,0,1,Prostate Cancer,Sacral Mass
+P-0001882,49.447,1,0,Glioma,Unspecified
+P-0001921,81.83,0,0,Glioma,Unspecified
+P-0001941,9.173,1,0,Breast Cancer,Axilla
+P-0001947,69.633,1,0,Soft Tissue Sarcoma,Liver
+P-0001971,51.551,1,0,Glioma,Unspecified
+P-0001975,41.162,1,0,Glioma,Unspecified
+P-0002010,18.411,1,0,Ovarian Cancer,Liver
+P-0002049,81.567,0,0,Colorectal Cancer,Pancreas
+P-0002085,9.337,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0002091,28.537,1,0,Non-Small Cell Lung Cancer,Brain
+P-0002095,55.594,1,0,Colorectal Cancer,Soft Tissue
+P-0002123,77.457,0,0,Prostate Cancer,Lymph Node
+P-0002134,19.858,1,0,Nerve Sheath Tumor,Lung
+P-0002149,57.994,0,1,Prostate Cancer,Urethra
+P-0002166,19.726,1,0,Bladder Cancer,Oral Cavity
+P-0002190,18.181,1,0,Bone Cancer,Lung
+P-0002203,7.496,1,1,Germ Cell Tumor,Lung
+P-0002208,11.079,1,0,Esophagogastric Cancer,Liver
+P-0002209,4.208,1,0,"Skin Cancer, Non-Melanoma",Unspecified
+P-0002218,79.956,0,0,Non-Small Cell Lung Cancer,Bone
+P-0002221,41.326,0,0,Thyroid Cancer,Mediastinum
+P-0002234,71.934,0,1,Renal Cell Carcinoma,Lymph Node
+P-0002242,11.342,1,1,Ovarian Cancer,Liver
+P-0002273,29.359,1,0,Prostate Cancer,Lymph Node
+P-0002308,81.14,0,0,Germ Cell Tumor,Omentum
+P-0002311,81.074,0,0,Bladder Cancer,Pelvis
+P-0002328,68.186,0,0,Head and Neck Cancer,Lymph Node
+P-0002334,70.027,1,0,Prostate Cancer,Soft Tissue
+P-0002392,80.646,0,1,Head and Neck Cancer,"Lymph Node, Regional"
+P-0002398,80.646,0,0,Prostate Cancer,Lymph Node
+P-0002449,2.4,0,1,Renal Cell Carcinoma,Lymph Node
+P-0002463,2.268,0,0,Colorectal Cancer,Vagina
+P-0002473,80.515,0,0,Breast Cancer,Bone
+P-0002499,80.614,0,0,Prostate Cancer,Lymph Node
+P-0002506,6.575,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0002508,57.6,1,0,"Skin Cancer, Non-Melanoma",Lung
+P-0002538,79.529,0,1,Ovarian Cancer,Bone
+P-0002578,61.216,1,0,Peripheral Nervous System,Brain
+P-0002614,18.937,1,0,Bladder Cancer,Lung
+P-0002615,80.153,0,1,Renal Cell Carcinoma,Soft Tissue
+P-0002617,38.071,1,1,Breast Cancer,Liver
+P-0002652,76.373,1,0,Breast Cancer,Soft Tissue
+P-0002726,79.397,0,1,Gastrointestinal Stromal Tumor,Soft Tissue
+P-0002739,58.553,1,1,Prostate Cancer,Brain
+P-0002768,79.627,0,0,Non-Small Cell Lung Cancer,Lung
+P-0002793,23.112,1,0,Melanoma,Lymph node
+P-0002823,32.022,1,0,Non-Small Cell Lung Cancer,Bone
+P-0002838,78.641,0,0,Non-Small Cell Lung Cancer,Lung
+P-0002840,78.049,0,0,Prostate Cancer,Lymph Node
+P-0002841,79.693,0,0,Breast Cancer,Lymph node
+P-0002843,69.633,0,0,Renal Cell Carcinoma,Lymph Node
+P-0002898,76.899,0,0,Prostate Cancer,Soft Tissue
+P-0002901,48.69,1,0,Prostate Cancer,Lymph Node
+P-0002916,18.378,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0002964,14.433,1,1,Renal Cell Carcinoma,Mediastinum
+P-0002971,79.101,0,0,Prostate Cancer,Lymph Node
+P-0002974,79.299,0,0,Prostate Cancer,Unspecified
+P-0002975,79.068,0,0,Breast Cancer,Bone
+P-0002979,62.827,0,0,Renal Cell Carcinoma,Retroperitoneum
+P-0002995,46.52,1,0,Breast Cancer,Lymph Node
+P-0003033,1.216,1,0,Prostate Cancer,Liver
+P-0003052,65.359,1,0,Prostate Cancer,Bone
+P-0003107,55.134,1,0,Non-Small Cell Lung Cancer,Bone (Femur)
+P-0003116,26.794,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0003119,78.707,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0003139,11.145,0,1,Prostate Cancer,Bone
+P-0003150,50.466,1,1,Prostate Cancer,Bone
+P-0003162,49.907,1,0,Gastrointestinal Stromal Tumor,Unspecified
+P-0003170,78.641,0,0,Glioma,Unspecified
+P-0003223,63.288,1,0,Breast Cancer,Liver
+P-0003233,51.419,1,0,Breast Cancer,Liver
+P-0003241,19.693,1,0,Breast Cancer,Ovary
+P-0003247,78.477,0,0,Non-Small Cell Lung Cancer,RUQ
+P-0003260,67.233,1,0,Non-Small Cell Lung Cancer,Liver
+P-0003274,72.263,1,0,Non-Small Cell Lung Cancer,Lung
+P-0003279,51.518,1,0,Bladder Cancer,Lymph Node
+P-0003281,78.444,0,0,Breast Cancer,Lymph Node
+P-0003282,50.4,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0003511,3.058,0,1,Prostate Cancer,Liver
+P-0003523,60.263,1,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0003533,19.2,1,0,Germ Cell Tumor,Spleen
+P-0003536,24.789,1,0,Esophagogastric Cancer,Lung
+P-0003538,10.258,1,1,Prostate Cancer,Bone
+P-0003544,77.26,0,0,Endometrial Cancer,Soft Tissue
+P-0003551,56.581,1,0,Non-Small Cell Lung Cancer,Liver
+P-0003562,71.967,1,0,Non-Small Cell Lung Cancer,Soft Tissue
+P-0003573,76.077,0,0,Non-Small Cell Lung Cancer,Pelvis
+P-0003580,38.794,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0003581,26.268,1,1,Breast Cancer,Liver
+P-0003591,45.041,1,0,Breast Cancer,Ovary
+P-0003595,40.603,1,0,Non-Small Cell Lung Cancer,Bone
+P-0003597,20.055,1,1,Prostate Cancer,Bone
+P-0003602,14.564,1,1,Prostate Cancer,Liver
+P-0003635,21.074,1,0,Non-Small Cell Lung Cancer,Brain
+P-0003678,51.814,1,0,Prostate Cancer,Bone
+P-0003684,28.734,1,0,Prostate Cancer,Pelvis
+P-0003770,41.326,1,0,Renal Cell Carcinoma,Vena cava
+P-0003777,30.378,1,0,Germ Cell Tumor,Sacral Mass
+P-0003783,21.896,1,0,Glioma,Unspecified
+P-0003785,77.392,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0003790,17.589,1,0,Bladder Cancer,Lymph Node
+P-0003799,11.112,1,0,Prostate Cancer,Liver
+P-0003822,16.274,1,0,Glioma,Unspecified
+P-0003825,75.649,0,0,Thyroid Cancer,Lymph Node
+P-0003827,36.033,1,0,Glioma,Unspecified
+P-0003838,76.734,0,1,Renal Cell Carcinoma,Muscle
+P-0003843,64.373,1,0,Renal Cell Carcinoma,Lung
+P-0003848,77.03,0,0,Bladder Cancer,Lymph Node
+P-0003854,3.748,1,0,Non-Small Cell Lung Cancer,Brain
+P-0003866,54.608,1,0,Breast Cancer,Pleural Fluid
+P-0003879,42.148,1,0,Non-Small Cell Lung Cancer,Unspecified
+P-0003882,74.597,1,0,Breast Cancer,Lung
+P-0003892,27.09,1,1,Esophagogastric Cancer,Ovary
+P-0003933,28.701,1,0,Breast Cancer,Liver
+P-0003937,4.077,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0004066,24.658,1,0,Non-Small Cell Lung Cancer,Pericardium
+P-0004109,73.348,0,0,Melanoma,In-transit
+P-0004119,41.457,1,0,Glioma,Unspecified
+P-0004130,4.11,0,0,"Skin Cancer, Non-Melanoma",Lymph Node
+P-0004140,13.447,1,0,Colorectal Cancer,Abdomen
+P-0004163,44.153,1,1,Soft Tissue Sarcoma,Lymph Node
+P-0004185,46.159,1,1,Pancreatic Cancer,Liver
+P-0004189,75.978,0,1,Small Cell Lung Cancer,Lymph Node
+P-0004226,76.405,0,0,Bladder Cancer,Lung
+P-0004231,6.181,1,1,Prostate Cancer,Bone
+P-0004234,50.893,1,0,Soft Tissue Sarcoma,Unspecified
+P-0004248,7.003,0,0,Renal Cell Carcinoma,Lymph Node
+P-0004264,59.54,1,0,Breast Cancer,Lymph Node
+P-0004288,56.581,1,0,Glioma,Unspecified
+P-0004307,75.846,0,0,Pancreatic Cancer,Liver
+P-0004316,71.474,0,1,Breast Cancer,Liver
+P-0004339,76.471,0,0,Non-Small Cell Lung Cancer,Brain
+P-0004364,0.986,1,0,Pancreatic Cancer,Liver
+P-0004373,26.203,1,0,Germ Cell Tumor,Liver
+P-0004379,75.978,0,0,Endometrial Cancer,Chest Wall
+P-0004381,75.616,0,0,Breast Cancer,Lymph Node
+P-0004401,24.493,0,0,Colorectal Cancer,Small Bowel
+P-0004403,34.915,1,1,Colorectal Cancer,Liver
+P-0004430,10.619,1,0,Glioma,Soft Tissue
+P-0004524,75.846,0,1,Ovarian Cancer,Gallbladder
+P-0004526,46.192,1,0,Prostate Cancer,Bone
+P-0004530,68.91,0,1,Non-Small Cell Lung Cancer,Paracolic Gutter
+P-0004554,74.663,0,0,Melanoma,Lymph Node
+P-0004593,76.011,0,0,Prostate Cancer,Pelvis
+P-0004595,76.011,0,1,Pancreatic Cancer,Liver
+P-0004597,1.907,1,0,Prostate Cancer,Pelvis
+P-0004605,36.592,1,0,Esophagogastric Cancer,Lung
+P-0004607,4.077,1,0,Non-Small Cell Lung Cancer,Liver
+P-0004618,9.929,1,1,Bladder Cancer,Lung
+P-0004654,62.729,1,0,Breast Cancer,Liver
+P-0004657,37.94,1,0,Gastrointestinal Stromal Tumor,Retroperitoneum
+P-0004691,24.164,1,0,Non-Small Cell Lung Cancer,Thigh
+P-0004733,23.375,1,0,Bladder Cancer,Brain
+P-0004735,48.131,1,0,Prostate Cancer,Bone
+P-0004739,67.43,1,0,Non-Small Cell Lung Cancer,Lymph node
+P-0004752,39.09,1,0,Non-Small Cell Lung Cancer,Lung
+P-0004756,74.86,0,0,Prostate Cancer,Bone
+P-0004760,73.085,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0004768,74.663,1,0,Breast Cancer,Bone
+P-0004812,48.46,1,0,Glioma,Unspecified
+P-0004851,18.181,1,0,Non-Small Cell Lung Cancer,Brain
+P-0004854,75.222,0,1,Bone Cancer,Pancreas
+P-0004858,75.419,0,0,Non-Small Cell Lung Cancer,Adrenal Gland
+P-0004880,7.627,1,1,Germ Cell Tumor,Lymph Node
+P-0004883,51.353,1,0,Gastrointestinal Stromal Tumor,Peritoneum
+P-0004910,7.529,1,1,Prostate Cancer,Lymph Node
+P-0004918,74.564,0,0,Breast Cancer,Liver
+P-0004929,27.649,1,0,Endometrial Cancer,Peritoneum
+P-0004937,68.12,0,0,Gastrointestinal Stromal Tumor,Unspecified
+P-0004983,73.381,0,0,Bladder Cancer,Lung
+P-0005052,8.778,0,0,Prostate Cancer,Liver
+P-0005063,74.597,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0005065,50.663,1,1,Prostate Cancer,liver
+P-0005078,74.4,0,0,Prostate Cancer,Lymph Node
+P-0005114,74.597,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0005141,66.74,1,1,Glioma,Unspecified
+P-0005150,72.427,0,0,Bladder Cancer,Lung
+P-0005152,31.003,0,0,Breast Cancer,Bone
+P-0005163,36.427,1,1,Colorectal Cancer,Liver
+P-0005164,68.449,1,0,Colorectal Cancer,Ovary
+P-0005187,74.597,0,0,Renal Cell Carcinoma,Lymph Node
+P-0005205,53.162,1,0,Breast Cancer,Lung
+P-0005213,73.742,0,1,Prostate Cancer,Bone
+P-0005242,56.712,0,0,Breast Cancer,Liver
+P-0005264,53.49,1,0,Non-Small Cell Lung Cancer,Bone
+P-0005270,66.904,1,1,Colorectal Cancer,Lung
+P-0005284,49.019,1,0,Bladder Cancer,Lung
+P-0005285,1.019,1,0,Endometrial Cancer,Pelvis
+P-0005297,56.975,0,0,Bone Cancer,Lung
+P-0005311,12.099,1,0,Colorectal Cancer,Small Bowel
+P-0005325,24.164,1,0,Uterine Sarcoma,Lung
+P-0005342,74.203,0,1,Breast Cancer,Liver
+P-0005344,30.542,1,0,Prostate Cancer,Lymph Node
+P-0005361,49.085,1,1,Glioma,Unspecified
+P-0005379,73.216,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0005382,54.049,1,1,Salivary Gland Cancer,Lung
+P-0005409,1.447,0,0,Renal Cell Carcinoma,Lymph Node
+P-0005436,72.197,0,0,Prostate Cancer,Bone
+P-0005445,16.734,1,1,Prostate Cancer,Lymph Node
+P-0005450,74.334,0,1,Glioma,Brain
+P-0005464,24.69,1,0,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0005467,74.005,0,0,Non-Small Cell Lung Cancer,Liver
+P-0005483,15.551,1,0,Non-Small Cell Lung Cancer,Liver
+P-0005551,20.877,1,0,Renal Cell Carcinoma,Bone
+P-0005602,39.288,1,0,Breast Cancer,Soft Tissue
+P-0005645,9.929,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0005655,70.257,0,0,Melanoma,"Lymph node, Regional"
+P-0005688,39.222,1,0,Breast Cancer,Vertebrate
+P-0005693,27.09,1,1,Miscellaneous Brain Tumor,Omentum
+P-0005730,72.953,0,1,Colorectal Cancer,Liver
+P-0005759,73.315,0,0,Melanoma,Skin
+P-0005813,73.414,0,0,Non-Small Cell Lung Cancer,CSF
+P-0005816,71.375,0,0,Breast Cancer,Bone
+P-0005832,72.789,0,0,Breast Cancer,Brain
+P-0005884,42.411,1,0,Melanoma,Unspecified
+P-0005901,72.986,0,0,Renal Cell Carcinoma,Liver
+P-0005909,72.296,0,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0005916,72.822,0,0,Bladder Cancer,Liver
+P-0005927,31.825,1,1,Non-Small Cell Lung Cancer,Cerebellum
+P-0005937,53.951,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0005953,16.537,1,0,Prostate Cancer,Lymph Node
+P-0006064,25.348,1,0,Thyroid Cancer,Soft Tissue
+P-0006097,25.71,0,0,Bladder Cancer,Right Ischium
+P-0006108,68.351,0,0,Prostate Cancer,Lymph Node
+P-0006113,37.085,1,0,Soft Tissue Sarcoma,Soft Tissue
+P-0006116,38.827,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0006139,71.441,0,0,Non-Small Cell Lung Cancer,Lung
+P-0006147,27.682,1,1,Pancreatic Cancer,Unspecified
+P-0006169,36.329,1,0,Breast Cancer,Liver
+P-0006194,66.345,1,0,Bladder Cancer,Ureter
+P-0006197,57.008,1,0,Mesothelioma,Lymph Node
+P-0006226,8.811,1,1,Prostate Cancer,Brain
+P-0006246,14.564,1,1,Anal Cancer,Liver
+P-0006248,25.151,1,0,Breast Cancer,Bone
+P-0006249,72.263,0,0,Breast Cancer,Lymph Node
+P-0006280,72.263,0,0,Non-Small Cell Lung Cancer,Bone
+P-0006328,61.973,1,1,Hepatobiliary Cancer,Soft Tissue
+P-0006346,72.394,0,1,Prostate Cancer,Liver
+P-0006350,9.008,1,0,Germ Cell Tumor,Bone
+P-0006369,66.51,0,1,Soft Tissue Sarcoma,Unspecified
+P-0006372,72.329,0,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0006374,31.364,1,0,Pancreatic Cancer,Liver
+P-0006381,5.293,1,0,Renal Cell Carcinoma,Bone
+P-0006382,50.794,1,1,Pancreatic Cancer,Liver
+P-0006417,28.636,1,0,Pancreatic Cancer,Liver
+P-0006419,70.619,0,0,Mesothelioma,Bowel
+P-0006439,64.11,0,0,Head and Neck Cancer,Lung
+P-0006443,44.712,0,0,Soft Tissue Sarcoma,Lung
+P-0006444,71.244,0,1,Ovarian Cancer,Liver
+P-0006468,36.888,1,1,Colorectal Cancer,Liver
+P-0006482,35.901,1,0,Endometrial Cancer,Bladder
+P-0006498,12.888,1,1,Renal Cell Carcinoma,Lung
+P-0006546,32.877,1,0,Glioma,Sacral Mass
+P-0006561,35.605,1,0,Non-Small Cell Lung Cancer,Lung
+P-0006570,19.43,1,1,Bladder Cancer,Lymph Node
+P-0006609,45.238,1,0,Breast Cancer,Liver
+P-0006631,27.945,1,0,Breast Cancer,Liver
+P-0006639,58.06,1,0,Renal Cell Carcinoma,Brain
+P-0006660,71.244,0,0,Breast Cancer,Iliac Bone
+P-0006687,71.474,0,0,Colorectal Cancer,Peritoneum
+P-0006691,39.288,1,0,Pancreatic Cancer,Liver
+P-0006713,68.153,0,0,Non-Small Cell Lung Cancer,Liver
+P-0006760,18.279,1,0,Pancreatic Cancer,Liver
+P-0006766,70.652,0,1,Colorectal Cancer,Ovary
+P-0006768,39.156,1,0,Non-Small Cell Lung Cancer,Liver
+P-0006781,44.647,1,0,Soft Tissue Sarcoma,Small Intestine
+P-0006793,30.838,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0006801,52.438,1,0,Peripheral Nervous System,Lymph Node
+P-0006803,23.079,1,0,Gastrointestinal Neuroendocrine Tumor,Liver
+P-0006805,16.274,1,0,Endometrial Cancer,Omentum
+P-0006806,10.488,0,0,Prostate Cancer,Liver
+P-0006810,70.882,0,0,Non-Small Cell Lung Cancer,Paraspinal
+P-0006829,50.4,1,0,Breast Cancer,Liver
+P-0006837,35.737,1,0,Prostate Cancer,Bone
+P-0006847,70.685,0,0,Breast Cancer,Liver
+P-0006859,55.036,0,0,Esophagogastric Cancer,Bone
+P-0006862,34.915,1,0,Ampullary Cancer,Lung
+P-0006894,70.652,0,0,Prostate Cancer,Lymph Node
+P-0006908,39.057,1,0,Breast Cancer,Lung
+P-0006910,47.934,0,0,Breast Cancer,Skin
+P-0006911,15.518,1,0,Esophagogastric Cancer,Lung
+P-0006948,70.652,0,0,Breast Cancer,Bone
+P-0007018,34.784,1,0,Glioma,Unspecified
+P-0007080,66.51,0,0,Non-Small Cell Lung Cancer,Liver
+P-0007082,40.142,1,0,Non-Small Cell Lung Cancer,Adrenal Gland
+P-0007104,62.893,0,1,Glioma,Unspecified
+P-0007121,68.745,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0007131,1.381,1,1,Non-Small Cell Lung Cancer,Chest Wall
+P-0007137,64.044,1,1,Prostate Cancer,Vertebrate
+P-0007143,10.323,1,1,Prostate Cancer,Liver
+P-0007179,69.731,0,1,Pancreatic Cancer,Unspecified
+P-0007227,16.011,1,0,Esophagogastric Cancer,Peritoneum
+P-0007268,12.164,1,0,Gastrointestinal Stromal Tumor,Liver
+P-0007288,27.945,1,0,Breast Cancer,Liver
+P-0007298,70.356,0,0,Hepatobiliary Cancer,Adrenal Gland
+P-0007299,17.523,1,0,Renal Cell Carcinoma,Bone
+P-0007307,23.573,1,1,Prostate Cancer,Lymph Node
+P-0007335,69.403,0,0,Breast Cancer,Liver
+P-0007343,70.257,0,0,Prostate Cancer,Abdomen
+P-0007356,69.304,0,0,Bladder Cancer,Lymph Node
+P-0007369,32.877,1,0,CNS Cancer,Liver
+P-0007398,2.071,1,0,Endometrial Cancer,Lung
+P-0007415,28.866,1,0,CNS Cancer,Spine
+P-0007504,15.978,1,0,Glioma,Unspecified
+P-0007513,34.751,1,0,Non-Small Cell Lung Cancer,Pelvis
+P-0007550,68.515,0,0,Colorectal Cancer,Ovary
+P-0007565,69.962,0,0,Pancreatic Cancer,Ovary
+P-0007620,50.17,0,0,Head and Neck Cancer,Lung
+P-0007647,18.805,1,0,Prostate Cancer,Lymph Node
+P-0007699,0.0,0,0,Salivary Gland Cancer,Liver
+P-0007702,69.337,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0007745,54.214,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0007788,59.737,0,0,Non-Small Cell Lung Cancer,RIGHT GROIN
+P-0007834,69.271,0,0,Renal Cell Carcinoma,Pleura
+P-0007864,46.981,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0007874,69.567,0,1,Prostate Cancer,Bone
+P-0007875,37.052,1,1,Prostate Cancer,Bone
+P-0007887,66.937,1,1,Prostate Cancer,Liver
+P-0007898,40.997,1,0,Pancreatic Cancer,Omentum
+P-0007901,44.252,0,0,Non-Small Cell Lung Cancer,Bone
+P-0007922,56.449,1,0,Cervical Cancer,Lung
+P-0007930,68.877,0,0,Prostate Cancer,Lymph Node
+P-0007981,0.0,1,1,Renal Cell Carcinoma,Liver
+P-0007995,66.214,0,0,Esophagogastric Cancer,Lymph Node
+P-0008077,39.255,1,0,Non-Small Cell Lung Cancer,Lung
+P-0008083,62.301,0,0,Colorectal Cancer,Right Frontal Brain
+P-0008084,30.247,1,0,Gastrointestinal Stromal Tumor,Liver
+P-0008099,58.915,1,0,Pancreatic Cancer,Liver
+P-0008104,68.449,0,0,Breast Cancer,Lymph node
+P-0008106,68.844,0,0,Bladder Cancer,"Lymph Node, Regional"
+P-0008127,7.89,1,0,Mesothelioma,Lymph Node
+P-0008137,33.008,1,0,Renal Cell Carcinoma,Bone
+P-0008139,43.923,1,0,Prostate Cancer,Lymph Node
+P-0008145,10.784,0,0,Breast Cancer,Soft Tissue
+P-0008161,26.137,1,0,Non-Small Cell Lung Cancer,Bone
+P-0008181,59.737,0,0,Pancreatic Cancer,Lung
+P-0008211,69.107,0,0,Breast Cancer,Bone
+P-0008232,68.877,0,0,Prostate Cancer,Lymph Node
+P-0008340,6.082,1,0,Renal Cell Carcinoma,Colon
+P-0008346,41.063,1,0,Breast Cancer,Chest Wall
+P-0008348,44.351,0,0,Prostate Cancer,Lymph Node
+P-0008370,8.877,1,0,Pancreatic Cancer,Lymph Node
+P-0008398,68.647,0,0,Breast Cancer,Skin
+P-0008404,68.449,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0008424,68.383,0,1,Breast Cancer,Bone
+P-0008429,17.129,1,0,Colorectal Cancer,Liver
+P-0008440,68.581,0,1,Non-Small Cell Lung Cancer,Unspecified
+P-0008442,17.786,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0008481,39.386,1,1,Breast Cancer,Skin
+P-0008542,68.351,0,0,Prostate Cancer,Lymph Node
+P-0008551,67.627,0,0,Colorectal Cancer,Liver
+P-0008552,0.789,1,0,Pancreatic Cancer,Gallbladder
+P-0008559,31.956,1,0,Breast Cancer,Liver
+P-0008563,1.085,0,0,Renal Cell Carcinoma,Retroperitoneum
+P-0008589,14.203,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0008599,26.236,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0008601,45.107,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0008602,17.556,1,0,Non-Small Cell Lung Cancer,Brain
+P-0008650,10.849,0,1,Non-Small Cell Lung Cancer,Chest Wall
+P-0008667,68.12,0,1,Prostate Cancer,Soft Tissue
+P-0008670,23.047,0,0,Germ Cell Tumor,Lymph Node
+P-0008679,19.989,1,0,Breast Cancer,Liver
+P-0008764,50.268,0,0,Non-Small Cell Lung Cancer,Brain
+P-0008771,57.337,0,0,Prostate Cancer,Lymph Node
+P-0008789,22.258,0,1,Small Cell Lung Cancer,"Lymph Node, Regional"
+P-0008818,10.619,1,0,Pancreatic Cancer,Abdomen
+P-0008837,31.003,1,0,Non-Small Cell Lung Cancer,Brain
+P-0008849,4.8,1,0,Non-Small Cell Lung Cancer,Bone (Femur)
+P-0008857,26.466,1,0,Melanoma,In-transit
+P-0008885,64.701,0,1,Germ Cell Tumor,Muscle
+P-0008913,67.627,0,0,Colorectal Cancer,Liver
+P-0008922,4.077,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0008932,2.499,1,0,Head and Neck Cancer,Brain
+P-0008995,7.266,1,0,Germ Cell Tumor,Lung
+P-0009006,20.712,0,1,Prostate Cancer,Liver
+P-0009076,33.238,1,0,Cancer of Unknown Primary,Brain
+P-0009110,53.984,1,0,Non-Small Cell Lung Cancer,Soft Tissue
+P-0009145,53.688,0,1,Colorectal Cancer,Liver
+P-0009181,25.94,1,0,Breast Cancer,Bone
+P-0009261,57.008,1,0,Non-Small Cell Lung Cancer,Skin
+P-0009275,65.852,0,0,Non-Small Cell Lung Cancer,Brain
+P-0009306,21.962,1,0,Hepatobiliary Cancer,Gallbladder
+P-0009339,5.49,0,1,Non-Small Cell Lung Cancer,Pleura
+P-0009358,11.868,1,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0009403,29.063,1,0,Colorectal Cancer,Lung
+P-0009412,59.836,0,0,Melanoma,Lung
+P-0009420,66.805,0,1,Prostate Cancer,Bone
+P-0009450,34.553,1,1,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0009451,12.263,1,0,Glioma,Unspecified
+P-0009463,27.353,1,0,Prostate Cancer,Soft Tissue
+P-0009535,66.378,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0009610,65.26,0,0,Breast Cancer,Bone
+P-0009640,16.964,1,0,Prostate Cancer,Hip
+P-0009691,45.304,1,0,Non-Small Cell Lung Cancer,Brain
+P-0009733,26.729,1,0,Soft Tissue Sarcoma,Lymph Node
+P-0009786,64.603,0,0,Prostate Cancer,Lymph Node
+P-0009787,4.964,0,1,Prostate Cancer,Liver
+P-0009817,53.03,1,1,Prostate Cancer,Liver
+P-0009828,20.252,1,0,Breast Cancer,Liver
+P-0009872,34.586,1,0,Esophagogastric Cancer,Lung
+P-0009916,34.225,1,0,Hepatobiliary Cancer,Liver
+P-0009927,20.745,1,0,Gastrointestinal Neuroendocrine Tumor,Unspecified
+P-0009931,65.753,0,0,Breast Cancer,Bone
+P-0009948,65.688,0,0,Non-Small Cell Lung Cancer,Bone
+P-0009960,48.559,0,0,Non-Small Cell Lung Cancer,Soft Tissue
+P-0010035,40.077,1,0,Breast Cancer,Liver
+P-0010053,22.159,1,0,Non-Small Cell Lung Cancer,Rib
+P-0010079,65.753,0,0,Bladder Cancer,Lymph Node
+P-0010098,8.449,1,0,Colorectal Cancer,Liver
+P-0010169,52.438,1,0,Non-Small Cell Lung Cancer,Liver
+P-0010180,65.392,0,1,Prostate Cancer,Liver
+P-0010183,65.622,0,0,Gastrointestinal Stromal Tumor,Pelvis
+P-0010207,61.447,1,0,Colorectal Cancer,Liver
+P-0010222,4.405,1,0,Head and Neck Cancer,Lung
+P-0010261,2.762,1,0,Non-Small Cell Lung Cancer,Duodenum
+P-0010269,64.077,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0010301,43.397,1,0,Bone Cancer,Lung
+P-0010343,30.247,1,1,Colorectal Cancer,Liver
+P-0010361,21.238,1,0,Breast Cancer,Liver
+P-0010363,47.704,0,0,Colorectal Cancer,Liver
+P-0010380,10.488,1,0,Glioma,Unspecified
+P-0010393,59.836,0,0,Bladder Cancer,Lung
+P-0010399,65.096,0,1,Prostate Cancer,Lymph Node
+P-0010403,31.101,1,0,Soft Tissue Sarcoma,Bone
+P-0010468,23.901,1,0,Soft Tissue Sarcoma,Chest Wall
+P-0010496,64.931,0,0,Pancreatic Cancer,Liver
+P-0010525,45.238,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0010555,7.792,1,1,Colorectal Cancer,Liver
+P-0010581,51.682,0,1,Thymic Tumor,Adrenal Gland
+P-0010593,64.57,0,1,Breast Cancer,Bone
+P-0010640,46.06,0,0,Non-Small Cell Lung Cancer,Bone
+P-0010643,62.597,0,1,Breast Sarcoma,Breast
+P-0010679,15.814,1,0,Mesothelioma,Pleural Fluid
+P-0010680,34.981,1,0,Colorectal Cancer,Liver
+P-0010703,62.794,0,0,Breast Cancer,Skin
+P-0010728,7.989,1,0,Breast Cancer,Bone
+P-0010785,21.37,1,0,Non-Small Cell Lung Cancer,Liver
+P-0010811,64.537,0,0,Prostate Cancer,Bone
+P-0010847,58.159,1,0,Melanoma,Soft Tissue
+P-0010860,64.668,0,0,Salivary Gland Cancer,Bone
+P-0010865,57.699,0,1,Head and Neck Cancer,Lung
+P-0010866,54.641,1,0,Pancreatic Cancer,Lymph Node
+P-0010920,25.348,1,0,Prostate Cancer,Lymph Node
+P-0010927,64.208,0,0,Non-Small Cell Lung Cancer,Adrenal Gland
+P-0010931,62.959,0,0,Soft Tissue Sarcoma,Retroperitoneum
+P-0010965,56.351,1,0,Colorectal Cancer,Lymph node
+P-0010974,52.307,1,0,Thyroid Cancer,Lymph Node
+P-0010978,64.471,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0010979,5.852,1,0,Breast Cancer,Liver
+P-0010980,40.274,1,0,Non-Small Cell Lung Cancer,Adrenal
+P-0010983,26.005,1,0,Non-Small Cell Lung Cancer,Bone
+P-0010992,47.441,1,0,Glioma,Liver
+P-0011015,3.682,0,0,Breast Cancer,Lymph Node
+P-0011016,63.419,0,0,Non-Small Cell Lung Cancer,Left Colon
+P-0011029,3.781,1,0,Melanoma,Liver
+P-0011037,29.984,1,0,Soft Tissue Sarcoma,Lymph Node
+P-0011043,16.34,1,0,Non-Small Cell Lung Cancer,Liver
+P-0011067,46.323,0,0,Bone Cancer,Lung
+P-0011092,63.847,0,1,Prostate Cancer,Lymph Node
+P-0011094,6.181,1,0,Soft Tissue Sarcoma,Groin
+P-0011104,63.912,0,0,Hepatobiliary Cancer,Lung
+P-0011113,22.389,1,0,Breast Cancer,Lung
+P-0011136,63.09,0,0,Non-Small Cell Lung Cancer,Brain
+P-0011155,58.488,0,1,Prostate Cancer,Adrenal Gland
+P-0011162,4.208,1,0,Renal Cell Carcinoma,Stomach
+P-0011198,62.827,0,0,Prostate Cancer,Lymph Node
+P-0011202,32.384,1,0,Glioma,Unspecified
+P-0011203,9.666,1,0,Salivary Gland Cancer,Lung
+P-0011205,28.471,1,1,Hepatobiliary Cancer,Lung
+P-0011225,62.926,0,0,Breast Cancer,Soft Tissue
+P-0011248,63.419,0,0,Glioma,Unspecified
+P-0011252,61.479,1,1,Soft Tissue Sarcoma,Unspecified
+P-0011309,32.449,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0011311,27.09,1,1,Non-Small Cell Lung Cancer,Liver
+P-0011321,0.69,1,0,Breast Cancer,Liver
+P-0011334,1.611,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0011363,63.616,0,1,Prostate Cancer,Bone
+P-0011364,61.512,0,0,Prostate Cancer,Bone
+P-0011389,44.088,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0011395,47.54,1,0,Non-Small Cell Lung Cancer,Bone
+P-0011416,63.682,0,1,Hepatobiliary Cancer,Lung
+P-0011429,54.115,1,0,Prostate Cancer,Rib
+P-0011440,7.331,1,0,Cancer of Unknown Primary,Liver
+P-0011466,61.545,0,0,Bone Cancer,Pleura
+P-0011479,63.551,0,0,Pancreatic Cancer,Liver
+P-0011515,59.868,1,1,Prostate Cancer,Cervical lymph node
+P-0011523,63.123,0,0,Bladder Cancer,Lung
+P-0011537,46.718,1,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0011557,1.578,1,0,Ovarian Cancer,Lung
+P-0012008,42.838,1,0,Non-Small Cell Lung Cancer,Mouth
+P-0012025,46.093,1,0,Prostate Cancer,Liver
+P-0012039,63.222,0,1,Prostate Cancer,Rectum
+P-0012045,40.537,0,0,Bladder Cancer,Lung
+P-0012048,28.997,1,0,Prostate Cancer,Scapula
+P-0012056,17.523,1,0,Non-Small Cell Lung Cancer,Liver
+P-0012057,6.148,1,0,Non-Small Cell Lung Cancer,Adrenal
+P-0012067,61.973,0,0,Mesothelioma,Unspecified
+P-0012089,63.025,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0012098,63.288,0,0,Non-Small Cell Lung Cancer,Sacrum
+P-0012102,4.142,1,0,Renal Cell Carcinoma,Adrenal
+P-0012104,31.397,1,1,Prostate Cancer,Bone
+P-0012114,62.959,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0012132,36.033,1,1,Prostate Cancer,Liver
+P-0012149,42.181,1,0,Non-Small Cell Lung Cancer,Bone
+P-0012206,28.767,1,0,Non-Small Cell Lung Cancer,Brain
+P-0012248,62.696,0,1,Gastrointestinal Stromal Tumor,Lung
+P-0012257,18.312,1,1,Hepatobiliary Cancer,Liver
+P-0012282,61.71,0,0,Melanoma,Liver
+P-0012289,11.573,1,0,Pancreatic Cancer,Liver
+P-0012393,28.373,1,0,Non-Small Cell Lung Cancer,Liver
+P-0012418,13.414,1,1,Colorectal Cancer,Liver
+P-0012423,23.112,1,1,Hepatobiliary Cancer,Pancreas
+P-0012428,59.77,0,1,Non-Small Cell Lung Cancer,CSF
+P-0012449,41.721,1,0,Non-Small Cell Lung Cancer,Unspecified
+P-0012451,29.458,0,1,Embryonal Tumor,Unspecified
+P-0012526,62.466,0,0,Cervical Cancer,Lung
+P-0012552,32.91,1,0,Bone Cancer,Unspecified
+P-0012572,16.471,1,1,Breast Cancer,Liver
+P-0012601,61.183,0,1,Appendiceal Cancer,Uterus
+P-0012629,11.375,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0012630,39.748,1,0,Prostate Cancer,Liver
+P-0012646,18.674,1,0,Glioma,Unspecified
+P-0012649,48.099,1,0,Non-Small Cell Lung Cancer,Vertebrate
+P-0012653,3.814,1,0,Colorectal Cancer,Liver
+P-0012674,39.912,1,0,Breast Cancer,Unspecified
+P-0012675,46.751,0,1,Prostate Cancer,Lymph Node
+P-0012689,28.668,1,0,Glioma,Unspecified
+P-0012730,10.849,1,0,Non-Small Cell Lung Cancer,Adrenal Gland
+P-0012773,54.97,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0012861,59.868,0,0,Soft Tissue Sarcoma,Lung
+P-0012892,21.994,1,0,Soft Tissue Sarcoma,Soft Tissue
+P-0012895,61.841,0,0,Non-Small Cell Lung Cancer,Liver
+P-0012978,9.666,1,1,Pancreatic Cancer,Unspecified
+P-0012979,8.482,1,0,Soft Tissue Sarcoma,Unspecified
+P-0013015,60.723,0,0,Breast Cancer,Liver
+P-0013030,61.677,0,1,Prostate Cancer,Right Frontal Brain
+P-0013037,51.452,1,0,Prostate Cancer,Spine (Bone)
+P-0013038,2.959,1,1,Prostate Cancer,Liver
+P-0013074,15.123,1,1,Glioma,Unspecified
+P-0013106,59.704,0,0,Esophagogastric Cancer,Soft Tissue
+P-0013112,19.693,1,0,Endometrial Cancer,Pelvis
+P-0013121,30.378,1,1,Colorectal Cancer,Abdominal Wall
+P-0013143,61.183,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0013150,61.381,0,1,Bladder Cancer,Lung
+P-0013162,61.118,0,0,Non-Small Cell Lung Cancer,Unspecified
+P-0013183,61.019,0,0,Hepatobiliary Cancer,Ovary
+P-0013196,36.723,0,0,Breast Cancer,Chest Wall
+P-0013219,10.488,1,1,Breast Cancer,Liver
+P-0013223,59.112,0,0,Prostate Cancer,Bone
+P-0013233,61.282,0,1,Non-Small Cell Lung Cancer,Spine
+P-0013243,12.0,1,0,Glioma,Unspecified
+P-0013276,55.693,0,0,Glioma,Unspecified
+P-0013299,29.786,1,0,Breast Cancer,Liver
+P-0013301,11.079,1,1,Cervical Cancer,Bone
+P-0013305,21.797,0,0,Breast Sarcoma,Lung
+P-0013339,49.71,1,1,Prostate Cancer,Liver
+P-0013345,52.668,1,0,Breast Cancer,Brain
+P-0013347,7.792,1,0,Glioma,Unspecified
+P-0013437,60.888,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0013484,27.123,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0013530,11.803,0,0,Soft Tissue Sarcoma,Rib
+P-0013536,12.855,1,0,Germ Cell Tumor,seminal vesicle
+P-0013550,47.079,0,0,Germ Cell Tumor,Liver
+P-0013580,43.463,1,0,Glioma,Unspecified
+P-0013582,52.636,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0013603,14.564,1,0,Glioma,Unspecified
+P-0013637,60.559,0,1,Bone Cancer,Bone
+P-0013745,16.997,1,1,Bone Cancer,Lung
+P-0013746,60.066,0,0,Bone Cancer,Sphenoid sinus
+P-0013749,4.964,0,1,Pancreatic Cancer,Liver
+P-0013755,47.507,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0013793,56.679,1,0,Soft Tissue Sarcoma,Liver
+P-0013808,60.066,0,1,Prostate Cancer,Lymph Node
+P-0013820,56.153,0,0,Colorectal Cancer,Liver
+P-0013849,15.518,1,0,Hepatobiliary Cancer,Abdomen
+P-0013855,60.526,0,0,Non-Small Cell Lung Cancer,Bone
+P-0013858,42.937,0,0,Prostate Cancer,Bone
+P-0013871,59.573,0,0,Cancer of Unknown Primary,Unspecified
+P-0013893,18.378,1,0,Bladder Cancer,Ovary
+P-0013895,24.197,1,0,Breast Cancer,Liver
+P-0013935,58.323,0,0,Non-Small Cell Lung Cancer,Adrenal Gland
+P-0013949,60.131,0,1,Prostate Cancer,Lung
+P-0014003,53.326,0,0,Non-Small Cell Lung Cancer,Brain
+P-0014027,33.699,1,0,Soft Tissue Sarcoma,Adrenal Gland
+P-0014066,44.811,0,0,Colorectal Cancer,Liver
+P-0014067,11.244,1,0,Breast Cancer,Skin
+P-0014075,16.833,1,0,Non-Small Cell Lung Cancer,Soft Tissue
+P-0014096,43.825,1,0,Breast Cancer,Neck
+P-0014121,59.901,0,0,Breast Cancer,Liver
+P-0014127,56.778,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0014129,59.145,0,0,Breast Cancer,Bone
+P-0014184,59.737,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0014189,49.94,1,0,Rhabdoid Cancer,Abdomen
+P-0014190,59.704,0,0,Small Bowel Cancer,Peritoneum
+P-0014220,18.049,1,0,Glioma,Unspecified
+P-0014254,59.277,0,0,Prostate Cancer,Pelvis
+P-0014267,58.849,0,0,Breast Cancer,Liver
+P-0014275,21.567,1,0,Pancreatic Cancer,Soft Tissue
+P-0014310,36.099,1,1,Non-Small Cell Lung Cancer,CNS
+P-0014331,56.844,0,0,Thyroid Cancer,Soft Tissue
+P-0014384,18.049,1,0,Breast Cancer,Omentum
+P-0014399,59.079,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0014422,16.405,1,0,Bladder Cancer,Lung
+P-0014434,45.468,0,0,Breast Cancer,Lymph node
+P-0014436,42.049,1,0,Endometrial Cancer,Pelvis
+P-0014483,41.392,1,0,Breast Cancer,Bone
+P-0014487,17.359,1,0,Non-Small Cell Lung Cancer,Lymph node
+P-0014497,17.984,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0014506,59.178,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0014569,58.751,0,0,Non-Small Cell Lung Cancer,LN
+P-0014624,52.241,0,0,Breast Cancer,Unspecified
+P-0014638,3.748,0,0,Germ Cell Tumor,Peritoneum
+P-0014645,13.874,1,0,Non-Small Cell Lung Cancer,Liver
+P-0014669,55.989,0,0,Endometrial Cancer,Bladder
+P-0014677,19.068,1,0,Glioma,Unspecified
+P-0014729,58.192,0,0,Non-Small Cell Lung Cancer,Brain
+P-0014768,58.816,0,0,Colorectal Cancer,Lymph Node
+P-0014791,24.756,1,0,Glioma,Unspecified
+P-0014833,46.652,1,0,Non-Small Cell Lung Cancer,Brain
+P-0014872,56.877,0,0,Soft Tissue Sarcoma,Liver
+P-0014885,36.23,1,0,Non-Small Cell Lung Cancer,Lymph node
+P-0014899,10.652,1,0,Colorectal Cancer,Spleen
+P-0014945,21.633,1,1,Colorectal Cancer,Liver
+P-0014968,20.844,1,0,Non-Small Cell Lung Cancer,Pelvis
+P-0014995,58.422,0,1,Breast Cancer,Femur
+P-0014996,28.931,1,1,Prostate Cancer,Bone
+P-0015009,44.12,1,0,Pancreatic Cancer,Liver
+P-0015027,41.359,1,0,Non-Small Cell Lung Cancer,Brain
+P-0015040,52.668,0,0,Pancreatic Cancer,Soft Tissue
+P-0015063,58.225,0,0,Breast Cancer,Pleura
+P-0015067,58.356,0,0,Bladder Cancer,Lung
+P-0015079,30.707,0,0,Non-Small Cell Lung Cancer,lung
+P-0015081,58.553,0,0,Bladder Cancer,Pleural Fluid
+P-0015121,33.337,1,0,Colorectal Cancer,Abdomen
+P-0015129,24.822,1,0,Non-Small Cell Lung Cancer,Bone
+P-0015149,58.52,0,0,Colorectal Cancer,Lung
+P-0015186,5.819,1,0,Bladder Cancer,Cervix
+P-0015230,19.956,1,0,Glioma,Unspecified
+P-0015236,30.115,1,0,Pancreatic Cancer,Liver
+P-0015255,57.074,0,0,Pancreatic Cancer,Lung
+P-0015276,25.019,1,0,Colorectal Cancer,Liver
+P-0015288,51.32,0,0,Colorectal Cancer,Lung
+P-0015298,49.118,1,0,Colorectal Cancer,Omentum
+P-0015300,55.364,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0015350,57.468,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0015360,54.871,1,0,Non-Small Cell Lung Cancer,Adrenal Gland
+P-0015363,48.92,1,0,Non-Small Cell Lung Cancer,Left parietal Pleura
+P-0015464,57.764,0,0,Breast Cancer,Liver
+P-0015475,58.027,0,0,Breast Cancer,Bone
+P-0015493,47.967,1,0,Small Bowel Cancer,Liver
+P-0015535,54.773,0,0,Breast Cancer,Bone
+P-0015547,54.181,0,0,Prostate Cancer,Sacral Mass
+P-0015562,27.847,1,0,Gastrointestinal Stromal Tumor,Mesentery
+P-0015579,17.293,1,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0015601,55.496,0,0,Non-Small Cell Lung Cancer,Lung
+P-0015646,54.608,0,0,Nerve Sheath Tumor,Lung
+P-0015744,57.468,0,1,Prostate Cancer,Pelvis
+P-0015745,35.112,1,0,Head and Neck Cancer,Lung
+P-0015814,57.567,0,0,Soft Tissue Sarcoma,Bone
+P-0015826,6.115,1,1,Gastrointestinal Stromal Tumor,Abdominal Wall
+P-0015881,45.468,0,0,Melanoma,Bone
+P-0015911,0.526,1,0,Esophagogastric Cancer,Unspecified
+P-0015921,57.337,0,0,Non-Small Cell Lung Cancer,Liver
+P-0015925,17.26,1,0,Prostate Cancer,Liver
+P-0015937,31.989,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0015951,47.54,1,0,Gastrointestinal Neuroendocrine Tumor,Liver
+P-0015961,47.014,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0015964,54.049,0,0,Breast Cancer,Brain
+P-0015992,27.551,0,0,Salivary Gland Cancer,Lung
+P-0016008,50.531,1,0,Esophagogastric Cancer,Brain
+P-0016043,55.299,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0016054,55.759,1,0,Non-Small Cell Lung Cancer,Liver
+P-0016093,56.614,0,1,Breast Cancer,Bone
+P-0016108,56.91,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0016141,47.014,1,0,Breast Cancer,Bone
+P-0016178,55.331,0,0,Bladder Cancer,Unspecified
+P-0016181,23.441,1,0,Colorectal Cancer,Brain
+P-0016262,44.844,0,0,Breast Cancer,Bone
+P-0016293,39.978,1,1,Colorectal Cancer,Liver
+P-0016350,26.137,0,0,Non-Small Cell Lung Cancer,Chest Wall
+P-0016379,53.162,0,0,"Skin Cancer, Non-Melanoma",Unspecified
+P-0016457,47.868,1,0,Soft Tissue Sarcoma,Liver
+P-0016468,56.482,0,0,Breast Cancer,Bone
+P-0016484,50.367,0,0,Breast Cancer,Axillary Lypmh Nodes
+P-0016499,56.186,0,0,Breast Cancer,Liver
+P-0016531,24.756,1,0,Melanoma,Liver
+P-0016537,29.721,1,0,Endometrial Cancer,Peritoneum
+P-0016624,55.693,0,1,Bladder Cancer,Lymph Node
+P-0016625,56.318,0,0,Pancreatic Cancer,Lymph Node
+P-0016627,56.252,0,1,Breast Cancer,Ovary
+P-0016632,56.055,0,0,Breast Cancer,chest wall
+P-0016647,20.088,1,1,Adrenocortical Carcinoma,Liver
+P-0016649,56.186,0,1,Bladder Cancer,Lymph Node
+P-0016695,17.589,0,0,Non-Small Cell Lung Cancer,Lung
+P-0016699,53.852,0,0,Breast Cancer,Unspecified
+P-0016705,39.288,0,0,Cancer of Unknown Primary,Liver
+P-0016713,1.085,0,0,Germ Cell Tumor,Abdominal Wall
+P-0016714,51.945,0,0,Non-Small Cell Lung Cancer,Unspecified
+P-0016731,43.2,1,0,Prostate Cancer,Liver
+P-0016733,52.504,1,1,Prostate Cancer,Sacrum
+P-0016764,55.43,1,0,Colorectal Cancer,Lung
+P-0016816,20.515,1,0,Breast Cancer,Unspecified
+P-0016837,29.589,1,0,Breast Cancer,Lymph node
+P-0016847,48.033,1,0,Colorectal Cancer,Liver
+P-0016853,55.726,0,0,Melanoma,"Lymph Node, Regional"
+P-0016869,55.364,0,0,Non-Small Cell Lung Cancer,Liver
+P-0016870,53.063,0,0,Non-Small Cell Lung Cancer,Brain
+P-0016873,53.326,1,0,Pancreatic Cancer,Liver
+P-0016930,42.181,1,0,Prostate Cancer,Liver
+P-0016938,1.151,1,1,Colorectal Cancer,Unspecified
+P-0016961,33.929,1,0,Prostate Cancer,Liver
+P-0016969,45.83,1,0,Breast Cancer,Liver
+P-0016991,14.236,1,0,Breast Cancer,Skin
+P-0017023,22.258,1,0,Endometrial Cancer,Peritoneum
+P-0017121,17.523,1,0,Pancreatic Cancer,Diaphragm
+P-0017154,0.986,0,0,Breast Cancer,Bone
+P-0017163,45.731,1,0,Salivary Gland Cancer,CSF
+P-0017166,52.734,0,0,Non-Small Cell Lung Cancer,Brain
+P-0017174,49.808,1,0,Non-Small Cell Lung Cancer,Liver
+P-0017181,52.866,1,0,Breast Cancer,Liver
+P-0017213,55.233,0,0,Breast Cancer,Brain
+P-0017254,53.852,0,0,Bone Cancer,Lung
+P-0017319,41.162,1,0,Non-Small Cell Lung Cancer,CSF
+P-0017322,34.093,1,0,Non-Small Cell Lung Cancer,Chest Wall
+P-0017325,52.044,1,0,Non-Small Cell Lung Cancer,Uterus
+P-0017365,19.331,0,0,Non-Small Cell Lung Cancer,Liver
+P-0017412,26.137,1,0,Hepatobiliary Cancer,Liver
+P-0017438,42.805,1,0,Breast Cancer,Skin
+P-0017462,18.279,1,0,Breast Cancer,Lung
+P-0017471,16.964,1,0,Glioma,Unspecified
+P-0017472,55.068,0,0,Bladder Cancer,Lymph Node
+P-0017478,52.701,0,0,Breast Cancer,Axilla
+P-0017479,45.83,1,0,Non-Small Cell Lung Cancer,Lymph node
+P-0017486,16.274,1,1,Esophagogastric Cancer,Liver
+P-0017531,42.707,1,0,Gastrointestinal Stromal Tumor,Liver
+P-0017558,54.904,0,0,Ampullary Cancer,Retroperitoneum
+P-0017565,43.825,1,0,Colorectal Cancer,Brain
+P-0017591,51.616,0,0,Germ Cell Tumor,Medistinum
+P-0017592,54.312,0,1,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0017598,54.411,0,0,Cancer of Unknown Primary,Lung
+P-0017605,38.696,1,0,Prostate Cancer,Lymph Node
+P-0017623,23.901,1,0,Breast Cancer,Lymph Node
+P-0017625,20.778,1,1,Mesothelioma,Lymph Node
+P-0017626,54.51,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0017654,17.063,1,0,Non-Small Cell Lung Cancer,Lung
+P-0017666,35.244,0,0,Breast Cancer,Liver
+P-0017698,54.082,0,0,Hepatobiliary Cancer,Adrenal
+P-0017703,20.384,1,0,Prostate Cancer,Lymph Node
+P-0017706,54.181,0,0,Breast Cancer,Lymph Node
+P-0017717,46.553,1,1,Head and Neck Cancer,Lung
+P-0017729,54.181,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0017752,41.852,1,0,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0017754,52.471,0,1,Prostate Cancer,Bone
+P-0017794,54.542,0,0,Non-Small Cell Lung Cancer,Brain
+P-0017892,20.153,1,0,Prostate Cancer,Lymph Node
+P-0017934,33.238,1,0,Colorectal Cancer,Unspecified
+P-0017973,36.46,1,0,Small Cell Lung Cancer,Liver
+P-0017976,20.712,0,0,Non-Small Cell Lung Cancer,Lung
+P-0017978,54.115,0,1,Non-Small Cell Lung Cancer,Unspecified
+P-0018057,53.326,0,0,Soft Tissue Sarcoma,Lung
+P-0018068,18.904,1,0,Prostate Cancer,Pelvis
+P-0018106,26.86,1,0,Endometrial Cancer,Lymph Node
+P-0018156,8.679,1,0,Cancer of Unknown Primary,Liver
+P-0018173,36.921,0,0,Melanoma,Brain
+P-0018181,36.559,0,0,Breast Cancer,Soft Tissue
+P-0018182,42.674,1,0,Thymic Tumor,Pleura
+P-0018185,48.394,1,0,Head and Neck Cancer,Retroperitoneum
+P-0018196,52.636,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0018199,11.277,1,0,Breast Cancer,Lymph Node
+P-0018235,53.918,0,0,Prostate Cancer,Lung
+P-0018237,51.584,1,0,Breast Cancer,CSF
+P-0018269,53.655,0,0,Breast Cancer,Bone
+P-0018277,54.049,0,0,Colorectal Cancer,Liver
+P-0018288,37.907,1,0,Breast Cancer,Cerebellum
+P-0018298,19.529,1,0,Soft Tissue Sarcoma,Brain
+P-0018317,45.994,1,0,Glioma,Unspecified
+P-0018394,23.244,1,0,Breast Cancer,Bone
+P-0018434,18.74,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0018441,17.885,1,0,Glioma,Unspecified
+P-0018462,52.8,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0018488,53.852,0,0,Colorectal Cancer,Lung
+P-0018514,52.34,1,0,Colorectal Cancer,Brain
+P-0018522,51.978,0,0,Breast Cancer,Lymph Node
+P-0018534,53.523,0,0,Ovarian Cancer,Soft Tissue
+P-0018541,53.753,0,0,Bladder Cancer,Perinephric Mass
+P-0018543,52.833,0,0,Glioma,Unspecified
+P-0018544,20.022,1,0,Glioma,Unspecified
+P-0018552,40.405,1,0,Breast Cancer,Skin
+P-0018568,38.663,1,1,Esophagogastric Cancer,Liver
+P-0018583,24.329,1,0,Gastrointestinal Stromal Tumor,Liver
+P-0018588,51.551,1,0,Colorectal Cancer,Lymph Node
+P-0018598,9.337,1,0,Non-Small Cell Lung Cancer,Bone
+P-0018645,31.068,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0018646,6.805,1,0,Glioma,Unspecified
+P-0018648,49.019,0,1,Pancreatic Cancer,Lung
+P-0018666,53.556,0,0,Hepatobiliary Cancer,Lymph Node
+P-0018681,53.162,0,0,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0018682,17.063,1,0,Non-Small Cell Lung Cancer,Liver
+P-0018718,44.186,0,0,Bone Cancer,Lung
+P-0018760,22.027,1,0,Colorectal Cancer,Ovary
+P-0018770,32.449,1,0,Soft Tissue Sarcoma,Unspecified
+P-0018771,53.227,0,1,Esophagogastric Cancer,Adrenal Gland
+P-0018779,53.194,0,0,Prostate Cancer,Lymph Node
+P-0018869,38.86,1,0,Breast Cancer,Ovary
+P-0018882,28.044,1,0,Breast Cancer,Liver
+P-0018913,52.899,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0018927,22.093,1,0,Esophagogastric Cancer,Adrenal Gland
+P-0018939,12.658,1,0,Breast Cancer,Skin
+P-0018986,53.03,0,0,Esophagogastric Cancer,Brain
+P-0019023,53.162,0,0,Prostate Cancer,Vertebrate
+P-0019030,51.025,0,0,Prostate Cancer,Bone
+P-0019042,52.767,0,1,Ovarian Cancer,Abdominal Wall
+P-0019064,12.986,0,0,Germ Cell Tumor,Abdominal Wall
+P-0019087,6.74,1,0,Non-Small Cell Lung Cancer,Bone
+P-0019102,35.211,1,1,Colorectal Cancer,Liver
+P-0019168,52.373,0,0,Ampullary Cancer,Ascending colon
+P-0019199,50.005,0,0,Prostate Cancer,Pelvis
+P-0019212,18.345,1,0,Cancer of Unknown Primary,Urethra
+P-0019246,12.263,0,0,Hepatobiliary Cancer,Unspecified
+P-0019262,12.46,1,0,Non-Small Cell Lung Cancer,Brain
+P-0019272,21.731,1,0,Esophagogastric Cancer,Skin
+P-0019278,51.584,0,0,Prostate Cancer,Bladder
+P-0019280,21.929,1,0,Glioma,Unspecified
+P-0019303,51.649,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0019341,23.934,0,0,Glioma,Unspecified
+P-0019351,26.926,1,0,Esophagogastric Cancer,Brain
+P-0019357,12.23,1,0,Soft Tissue Sarcoma,Pelvis
+P-0019392,52.668,0,0,Pancreatic Cancer,Brain
+P-0019393,9.764,1,1,Non-Small Cell Lung Cancer,Abdomen
+P-0019424,52.307,0,1,Soft Tissue Sarcoma,Lung
+P-0019451,52.537,0,0,Non-Small Cell Lung Cancer,Brain
+P-0019458,52.504,0,0,Breast Cancer,Bone
+P-0019552,42.247,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0019556,51.057,0,0,Glioma,Unspecified
+P-0019581,24.394,1,1,Prostate Cancer,Sternum
+P-0019607,28.274,1,0,Non-Small Cell Lung Cancer,Chest Wall
+P-0019612,50.63,0,0,Non-Small Cell Lung Cancer,Unspecified
+P-0019630,47.145,1,1,Head and Neck Cancer,Lymph Node
+P-0019631,45.534,1,0,Breast Cancer,Skin
+P-0019659,35.638,1,0,Endometrial Cancer,Brain
+P-0019709,18.148,1,0,Non-Small Cell Lung Cancer,Brain
+P-0019711,44.647,1,0,Colorectal Cancer,Adrenal
+P-0019726,45.205,0,0,Breast Cancer,Lymph Node
+P-0019747,26.63,1,0,Germ Cell Tumor,Brain
+P-0019781,51.123,0,1,Prostate Cancer,Lymph Node
+P-0019793,15.452,1,0,Renal Cell Carcinoma,Unspecified
+P-0019807,51.847,0,0,Small Bowel Cancer,Soft Tissue
+P-0019831,45.436,0,0,Colorectal Cancer,Liver
+P-0019852,14.4,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0019857,47.375,0,0,Non-Small Cell Lung Cancer,Lung
+P-0019864,51.156,0,1,Breast Cancer,Axilla
+P-0019914,31.331,1,0,Non-Small Cell Lung Cancer,Adrenal Gland
+P-0019948,51.814,0,0,Gastrointestinal Stromal Tumor,Unspecified
+P-0019988,20.121,1,0,Esophagogastric Cancer,Ileum
+P-0019992,3.485,0,0,Germ Cell Tumor,Peritoneum
+P-0020008,4.34,1,0,Breast Cancer,Unspecified
+P-0020033,12.822,1,0,Glioma,Unspecified
+P-0020042,51.748,0,0,Melanoma,Lung
+P-0020052,51.584,0,0,Germ Cell Tumor,Liver
+P-0020069,51.32,0,1,Endometrial Cancer,Adnexa or Endomterium
+P-0020088,43.003,1,0,Colorectal Cancer,Abdomen
+P-0020108,10.455,1,0,Gastrointestinal Stromal Tumor,Peritoneum
+P-0020180,50.038,0,0,"Skin Cancer, Non-Melanoma",Lung
+P-0020214,34.257,1,1,Cancer of Unknown Primary,Liver
+P-0020236,37.611,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0020245,51.386,1,0,Colorectal Cancer,Brain
+P-0020250,46.915,0,0,Glioma,Unspecified
+P-0020252,51.485,0,0,Bladder Cancer,Unspecified
+P-0020265,19.726,1,0,Breast Cancer,Liver
+P-0020288,49.118,0,1,Non-Small Cell Lung Cancer,Lung
+P-0020360,35.211,1,0,Breast Cancer,Liver
+P-0020383,46.159,1,0,Colorectal Cancer,Vagina
+P-0020417,46.619,0,1,Peripheral Nervous System,Brain
+P-0020450,26.005,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0020482,50.564,0,0,Prostate Cancer,Pelvis
+P-0020500,18.608,0,0,Colorectal Cancer,Liver
+P-0020564,17.293,1,0,Glioma,Peritoneum
+P-0020566,34.751,1,0,Breast Cancer,Liver
+P-0020569,26.104,1,0,Small Cell Lung Cancer,Adrenal Gland
+P-0020592,28.57,0,0,Bladder Cancer,Unspecified
+P-0020593,39.715,0,0,Breast Cancer,Lymph Node
+P-0020613,22.323,1,0,Hepatobiliary Cancer,Diaphragm
+P-0020620,7.331,1,0,Hepatobiliary Cancer,Brain
+P-0020632,20.745,1,0,Small Bowel Cancer,Liver
+P-0020641,47.836,0,0,Melanoma,In-transit
+P-0020693,50.301,1,0,Colorectal Cancer,Esophagus
+P-0020731,0.23,0,0,Soft Tissue Sarcoma,Lung
+P-0020792,50.63,0,0,Non-Small Cell Lung Cancer,Adrenal
+P-0020798,50.17,0,0,Bone Cancer,Unspecified
+P-0020803,47.638,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0020812,31.036,1,0,Prostate Cancer,Lymph Node
+P-0020820,27.255,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0020825,16.636,1,0,Non-Small Cell Lung Cancer,Unspecified
+P-0020835,18.51,1,0,Bladder Cancer,Bone
+P-0020838,50.597,0,0,Colorectal Cancer,Cerebellum
+P-0020860,11.803,0,0,Germ Cell Tumor,Omentum
+P-0020900,23.638,1,0,Glioma,Unspecified
+P-0020945,15.551,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0020951,29.655,1,0,Breast Cancer,Liver
+P-0020953,3.123,1,0,Non-Small Cell Lung Cancer,Liver
+P-0020970,47.737,1,0,Ovarian Cancer,Pelvis
+P-0020990,26.63,1,0,Colorectal Cancer,Ovary
+P-0021007,49.874,0,0,Colorectal Cancer,Pelvis
+P-0021033,35.014,1,1,Colorectal Cancer,Ovary
+P-0021045,12.625,1,1,Ovarian Cancer,Brain
+P-0021052,50.038,0,0,Breast Cancer,Lymph Node
+P-0021067,19.036,1,1,Glioma,Unspecified
+P-0021076,50.4,0,1,Glioma,Omentum
+P-0021104,49.742,0,0,Prostate Cancer,Lymph Node
+P-0021112,22.915,1,0,Non-Small Cell Lung Cancer,Liver
+P-0021117,22.784,1,0,Ovarian Cancer,Bone
+P-0021124,50.367,0,0,Non-Small Cell Lung Cancer,Soft Tissue
+P-0021156,24.263,1,0,Pancreatic Cancer,Bone
+P-0021177,22.685,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0021328,15.518,1,0,Ovarian Cancer,Liver
+P-0021409,38.893,0,0,Ovarian Cancer,Soft Tissue
+P-0021457,49.775,0,0,Soft Tissue Sarcoma,Omentum
+P-0021467,22.586,1,1,Glioma,Unspecified
+P-0021574,19.956,1,0,Non-Small Cell Lung Cancer,Adrenal
+P-0021593,27.09,1,0,Salivary Gland Cancer,Bone
+P-0021595,10.915,1,0,Glioma,Unspecified
+P-0021620,39.353,0,1,Prostate Cancer,Bone
+P-0021648,49.184,0,0,Head and Neck Cancer,Liver
+P-0021664,20.811,1,1,Breast Cancer,Liver
+P-0021668,48.986,0,0,Hepatobiliary Cancer,Pleura
+P-0021747,49.512,0,1,Bladder Cancer,Lymph Node
+P-0021753,48.789,0,1,Breast Cancer,Soft Tissue
+P-0021770,8.088,1,0,Germ Cell Tumor,Mediastinum
+P-0021774,33.699,1,0,Cancer of Unknown Primary,Lymph Node
+P-0021800,49.414,0,0,Pancreatic Cancer,Lung
+P-0021838,36.197,1,0,Soft Tissue Sarcoma,Unspecified
+P-0021847,48.855,0,0,Melanoma,Unspecified
+P-0021868,48.789,0,0,Soft Tissue Sarcoma,Liver
+P-0021873,43.825,1,0,Non-Small Cell Lung Cancer,Brain
+P-0021894,43.266,0,0,Prostate Cancer,Lung
+P-0021932,49.019,0,1,Ovarian Cancer,Omentum
+P-0021983,10.882,0,0,Breast Cancer,Unspecified
+P-0022051,47.277,0,0,Germ Cell Tumor,Soft Tissue
+P-0022066,49.085,0,0,Breast Cancer,Lung
+P-0022075,26.137,1,0,Nerve Sheath Tumor,Lung
+P-0022083,48.625,0,0,Prostate Cancer,Bone
+P-0022085,48.756,0,0,Pancreatic Cancer,Lung
+P-0022086,44.877,1,1,Breast Cancer,Chest Wall
+P-0022087,16.405,1,0,Hepatobiliary Cancer,Lymph Node
+P-0022097,30.937,1,0,Non-Small Cell Lung Cancer,Bone
+P-0022114,16.274,1,0,Prostate Cancer,Bone
+P-0022143,34.619,1,0,Esophagogastric Cancer,Lung
+P-0022156,48.066,0,0,Pancreatic Cancer,Liver
+P-0022166,15.222,0,0,Breast Cancer,Liver
+P-0022195,48.394,0,1,"Skin Cancer, Non-Melanoma",Lymph Node
+P-0022304,25.348,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0022306,47.836,0,0,Breast Cancer,Lung
+P-0022317,5.688,1,0,Soft Tissue Sarcoma,Lymph Node
+P-0022322,9.337,1,0,Glioma,Unspecified
+P-0022350,32.055,1,0,Breast Cancer,Bone
+P-0022387,48.723,0,0,Glioma,Retroperitoneum
+P-0022396,47.375,0,1,Bone Cancer,Lung
+P-0022426,32.515,1,0,Non-Small Cell Lung Cancer,Soft Tissue
+P-0022440,48.131,0,1,Sellar Tumor,Liver
+P-0022450,33.205,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0022483,43.66,1,0,Bladder Cancer,Bone
+P-0022504,48.493,0,0,Pancreatic Cancer,Liver
+P-0022520,48.033,0,0,Bladder Cancer,Lymph Node
+P-0022542,48.263,0,1,Melanoma,"Lymph Node, Regional"
+P-0022582,48.362,0,0,Non-Small Cell Lung Cancer,Breast
+P-0022651,14.992,1,0,Breast Cancer,Skin
+P-0022691,44.647,0,0,Colorectal Cancer,Liver
+P-0022721,48.033,0,1,Bone Cancer,Lung
+P-0022760,48.131,0,0,Pancreatic Cancer,Lymph Node
+P-0022777,48.131,0,0,Non-Small Cell Lung Cancer,Bone
+P-0022793,35.375,1,0,Pancreatic Cancer,Liver
+P-0022806,39.321,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0022827,47.474,0,0,Melanoma,Lymph Node
+P-0022873,30.148,1,1,Colorectal Cancer,Pelvis
+P-0022891,7.101,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0022933,47.375,0,0,Breast Cancer,Lung
+P-0022944,48.0,0,0,Soft Tissue Sarcoma,Brain
+P-0022950,6.411,1,0,Cancer of Unknown Primary,Omentum
+P-0022951,48.033,0,0,Non-Small Cell Lung Cancer,Lung
+P-0022955,45.271,0,0,Pancreatic Cancer,Liver
+P-0022975,47.737,0,0,Bone Cancer,Lung
+P-0022993,40.241,1,0,Glioma,Unspecified
+P-0023000,28.537,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0023089,43.825,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0023221,16.931,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0023249,15.156,1,1,Prostate Cancer,Brain
+P-0023276,18.115,1,1,Prostate Cancer,Bone
+P-0023278,17.556,0,0,Endometrial Cancer,Lung
+P-0023310,40.504,0,0,Small Cell Lung Cancer,Bone
+P-0023342,13.348,0,0,Small Cell Lung Cancer,Liver
+P-0023357,47.211,0,0,Breast Cancer,CSF
+P-0023364,46.685,1,1,Colorectal Cancer,Liver
+P-0023366,45.403,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0023399,45.797,1,0,Soft Tissue Sarcoma,Pleura
+P-0023440,20.548,1,1,Breast Cancer,Pleura
+P-0023443,43.266,0,1,Colorectal Cancer,Liver
+P-0023450,16.537,1,0,Bladder Cancer,Lung
+P-0023458,47.178,0,1,Endometrial Cancer,Lymph Node
+P-0023461,10.586,1,0,Colorectal Cancer,Liver
+P-0023465,37.381,1,0,Breast Cancer,Pelvis
+P-0023483,9.304,1,0,Soft Tissue Sarcoma,Groin
+P-0023509,44.416,0,0,Prostate Cancer,Prostate
+P-0023523,26.4,1,0,Glioma,Unspecified
+P-0023553,46.948,0,0,Esophagogastric Cancer,Pleura
+P-0023567,9.896,1,0,Esophagogastric Cancer,Liver
+P-0023610,42.181,0,0,Germ Cell Tumor,Lymph node
+P-0023612,27.912,1,0,Head and Neck Cancer,Liver
+P-0023618,44.975,0,0,Nerve Sheath Tumor,Unspecified
+P-0023717,43.266,0,0,Pancreatic Cancer,Liver
+P-0023742,13.808,1,0,Ovarian Cancer,Liver
+P-0023748,33.994,1,0,Breast Cancer,Bone
+P-0023797,46.718,0,0,Breast Cancer,Bone
+P-0023801,26.959,0,0,Soft Tissue Sarcoma,Skin
+P-0023805,9.863,1,0,Wilms Tumor,Lymph Node
+P-0023825,33.6,1,1,Non-Small Cell Lung Cancer,Lymph node
+P-0023843,15.09,1,0,Thyroid Cancer,Chest Wall
+P-0023860,45.173,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0023910,40.405,1,0,Non-Small Cell Lung Cancer,CSF
+P-0023919,7.989,1,0,Breast Cancer,Lymph Node
+P-0023994,26.071,1,0,Breast Cancer,Lymph Node
+P-0024026,45.863,0,0,Non-Small Cell Lung Cancer,Lung
+P-0024047,17.951,1,0,Non-Small Cell Lung Cancer,Bone
+P-0024054,35.277,0,0,Esophagogastric Cancer,Lymph Node
+P-0024076,7.595,1,1,Prostate Cancer,Epidural
+P-0024083,46.422,0,1,Breast Cancer,Lymph node
+P-0024088,45.962,0,1,Esophagogastric Cancer,Brain
+P-0024127,39.353,0,0,Ovarian Cancer,Bone
+P-0024129,44.219,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0024152,46.29,0,0,Bone Cancer,Lung
+P-0024217,36.164,1,1,Prostate Cancer,Lymph Node
+P-0024270,35.934,1,0,Esophagogastric Cancer,Brain
+P-0024340,46.06,0,0,Bladder Cancer,Lung
+P-0024397,37.249,1,0,Breast Cancer,Bone
+P-0024450,10.225,1,0,Breast Cancer,Liver
+P-0024498,13.315,1,1,Non-Small Cell Lung Cancer,Pleura
+P-0024538,9.304,1,1,Hepatobiliary Cancer,Lymph Node
+P-0024551,43.299,0,0,Breast Cancer,Chest Wall
+P-0024568,28.504,1,0,Breast Cancer,Skin
+P-0024608,8.285,1,0,Soft Tissue Sarcoma,Lymph Node
+P-0024634,31.989,1,0,Bone Cancer,Lung
+P-0024694,18.575,1,0,Glioma,Unspecified
+P-0024724,5.096,1,1,Head and Neck Cancer,Lymph Node
+P-0024744,24.394,1,0,Small Bowel Cancer,Peritoneum
+P-0024797,28.044,1,0,Bladder Cancer,Liver
+P-0024830,38.926,1,0,Melanoma,Liver
+P-0024831,34.882,1,0,Ovarian Cancer,Omentum
+P-0024836,41.951,0,1,Colorectal Cancer,Unspecified
+P-0024844,17.655,1,0,Non-Small Cell Lung Cancer,Brain
+P-0024845,45.271,0,0,Soft Tissue Sarcoma,Lymph Node
+P-0024949,45.337,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0025070,21.403,1,0,Breast Cancer,Lymph Node
+P-0025113,32.318,1,0,Breast Cancer,Skin
+P-0025127,43.2,1,0,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0025128,42.838,0,0,Bladder Cancer,Liver
+P-0025146,22.422,1,0,Esophagogastric Cancer,Vertebrate
+P-0025187,44.022,0,0,Breast Cancer,Rib
+P-0025203,45.107,0,1,Uterine Sarcoma,Lung
+P-0025222,27.353,0,1,Prostate Cancer,Retroperitenium
+P-0025241,40.57,0,0,Small Bowel Cancer,Pancreas
+P-0025245,16.471,1,0,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0025287,21.534,1,1,Glioma,Unspecified
+P-0025328,11.836,1,0,Head and Neck Cancer,Unspecified
+P-0025330,38.4,1,0,Non-Small Cell Lung Cancer,Lymph node
+P-0025390,43.167,0,0,Breast Cancer,Soft Tissue
+P-0025396,40.142,1,1,CNS Cancer,Skin
+P-0025437,44.548,0,0,Soft Tissue Sarcoma,Lung
+P-0025449,44.581,0,1,Colorectal Cancer,Lung
+P-0025458,44.252,0,0,Breast Cancer,Lung
+P-0025528,38.367,1,0,Breast Cancer,Chest Wall
+P-0025531,32.186,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0025546,44.712,0,0,Non-Small Cell Lung Cancer,Unspecified
+P-0025573,22.553,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0025601,10.455,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0025650,14.071,1,0,Prostate Cancer,Pelvis
+P-0025670,42.247,0,1,Head and Neck Cancer,Unspecified
+P-0025678,27.945,1,0,Hepatobiliary Cancer,Lung
+P-0025679,41.26,0,0,Pancreatic Cancer,Liver
+P-0025686,0.427,0,0,Colorectal Cancer,Liver
+P-0025714,42.641,0,0,Non-Small Cell Lung Cancer,Adrenal Gland
+P-0025736,43.463,0,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0025754,44.449,0,0,Gastrointestinal Stromal Tumor,Omentum
+P-0025782,9.008,0,0,Germ Cell Tumor,Paracolic Gutter
+P-0025791,11.342,1,0,Colorectal Cancer,Ovary
+P-0025805,44.416,0,0,Breast Cancer,Brain
+P-0025851,13.184,1,0,Prostate Cancer,Lymph Node
+P-0026023,22.652,1,1,Germ Cell Tumor,Lung
+P-0026026,42.805,0,1,Breast Cancer,Lymph Node
+P-0026050,15.419,1,0,Non-Small Cell Lung Cancer,CSF
+P-0026070,31.299,1,0,Breast Cancer,Unspecified
+P-0026071,5.655,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0026114,22.553,1,0,Esophagogastric Cancer,Lymph Node
+P-0026136,17.819,1,0,Non-Small Cell Lung Cancer,Lymph node
+P-0026170,42.937,1,0,Non-Small Cell Lung Cancer,Spine
+P-0026203,43.397,0,1,Glioma,Lung
+P-0026214,22.027,1,0,Gastrointestinal Stromal Tumor,Peritoneum
+P-0026221,43.068,0,0,Endometrial Cancer,Lung
+P-0026227,26.4,1,0,Glioma,CSF
+P-0026247,20.548,0,0,"Peritoneal Cancer, NOS",Lymph Node
+P-0026274,41.162,0,0,Melanoma,Lymph Node
+P-0026288,24.526,1,0,Breast Cancer,Brain
+P-0026295,36.789,1,1,Breast Cancer,Pleura
+P-0026297,42.082,0,0,Endometrial Cancer,Brain
+P-0026308,41.425,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0026314,43.759,0,0,Melanoma,Brain
+P-0026331,8.121,1,1,Glioma,Unspecified
+P-0026357,43.233,0,0,Thyroid Cancer,Sternum
+P-0026363,35.77,1,0,Non-Small Cell Lung Cancer,Bone
+P-0026369,26.301,0,0,Prostate Cancer,Bone
+P-0026371,26.729,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0026387,43.562,0,0,Pancreatic Cancer,Liver
+P-0026464,15.682,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0026481,43.562,0,1,Breast Cancer,Axilla
+P-0026513,42.838,1,0,Breast Cancer,Brain
+P-0026515,14.531,1,0,CNS Cancer,Unspecified
+P-0026540,40.899,1,0,Breast Cancer,Liver
+P-0026605,23.441,1,0,Breast Cancer,Bone
+P-0026615,19.956,1,1,Breast Cancer,Lymph Node
+P-0026650,42.937,0,1,Non-Small Cell Lung Cancer,Mediastinum
+P-0026654,3.321,1,0,Non-Small Cell Lung Cancer,Epidural
+P-0026657,10.816,1,0,Small Cell Lung Cancer,Liver
+P-0026664,43.331,0,0,Gastrointestinal Stromal Tumor,Abdomen
+P-0026670,43.331,0,0,Breast Cancer,Mediastinum
+P-0026671,4.208,1,0,Breast Cancer,Pleura
+P-0026680,38.762,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0026688,42.181,0,0,Non-Small Cell Lung Cancer,Cerebellum
+P-0026698,31.825,1,0,Prostate Cancer,Lymph Node
+P-0026724,19.43,1,0,Esophagogastric Cancer,Liver
+P-0026733,30.411,0,1,Gastrointestinal Stromal Tumor,Lung
+P-0026754,15.781,1,0,Gastrointestinal Stromal Tumor,Abdomen
+P-0026759,43.036,0,0,Cancer of Unknown Primary,Pancreas
+P-0026764,42.049,0,0,Breast Cancer,Skin
+P-0026766,29.984,0,0,Breast Cancer,Liver
+P-0026769,40.701,0,0,Uterine Sarcoma,Lung
+P-0026772,13.118,1,0,Colorectal Cancer,Liver
+P-0026839,42.575,0,1,Bladder Cancer,Bone
+P-0026843,40.274,0,0,Renal Cell Carcinoma,Liver
+P-0026874,43.101,0,0,Bladder Cancer,Lymph node
+P-0026936,13.841,1,0,Breast Cancer,Pleura
+P-0027006,8.285,1,0,Soft Tissue Sarcoma,Cerebellum
+P-0027025,42.411,0,0,Esophagogastric Cancer,Adrenal Gland
+P-0027083,42.575,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0027089,30.312,1,0,Gastrointestinal Stromal Tumor,Pelvis
+P-0027097,8.614,1,0,Hepatobiliary Cancer,Pleura
+P-0027117,10.258,1,0,Breast Cancer,Soft Tissue
+P-0027159,42.542,0,1,Pancreatic Cancer,Mediastinum
+P-0027208,16.504,1,0,Breast Cancer,Bone
+P-0027224,26.268,1,0,Soft Tissue Sarcoma,Lung
+P-0027242,0.921,1,0,Bladder Cancer,Retroperitoneum
+P-0027245,18.345,1,0,Prostate Cancer,Liver
+P-0027259,8.91,1,0,Non-Small Cell Lung Cancer,Soft Tissue
+P-0027277,3.353,1,1,Esophagogastric Cancer,Liver
+P-0027293,35.277,1,1,Prostate Cancer,Lymph Node
+P-0027309,8.745,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0027313,42.575,0,0,Non-Small Cell Lung Cancer,Brain
+P-0027316,26.236,1,0,Cervical Cancer,Unspecified
+P-0027319,17.819,1,0,Pancreatic Cancer,Liver
+P-0027419,42.214,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0027527,42.214,0,1,Non-Small Cell Lung Cancer,Vertebrate
+P-0027531,41.359,1,0,Non-Small Cell Lung Cancer,CSF
+P-0027586,41.786,0,0,Breast Cancer,Brain
+P-0027615,40.734,0,1,Non-Small Cell Lung Cancer,Lung
+P-0027619,40.8,0,0,Bladder Cancer,Lymph Node
+P-0027633,38.762,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0027637,41.918,0,1,Prostate Cancer,Lymph Node
+P-0027639,41.523,0,0,Non-Small Cell Lung Cancer,Brain
+P-0027725,7.759,0,1,Breast Cancer,Skin
+P-0027750,37.216,0,0,Colorectal Cancer,Anus
+P-0027755,38.104,0,0,Breast Cancer,Lymph Node
+P-0027762,24.921,1,0,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0027813,13.775,1,0,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0027816,41.194,0,0,CNS Cancer,Cerebellum
+P-0027822,41.951,0,1,Non-Small Cell Lung Cancer,Pleura
+P-0027828,11.638,1,0,Non-Small Cell Lung Cancer,Bone
+P-0027918,41.852,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0027944,40.208,0,0,Small Cell Lung Cancer,Lymph Node
+P-0027956,22.751,1,0,Bone Cancer,Chest Wall
+P-0028013,5.129,1,0,Soft Tissue Sarcoma,Lung
+P-0028057,31.825,1,0,Soft Tissue Sarcoma,Lung
+P-0028070,17.622,1,0,Endometrial Cancer,Abdomen
+P-0028083,41.721,0,0,Soft Tissue Sarcoma,Liver
+P-0028094,23.014,1,0,Endometrial Cancer,Pelvis
+P-0028108,31.956,1,0,Esophagogastric Cancer,Brain
+P-0028139,4.734,1,0,Non-Small Cell Lung Cancer,Abdomen
+P-0028171,41.589,0,0,Small Cell Lung Cancer,Pancreas
+P-0028245,41.096,0,1,Non-Small Cell Lung Cancer,Lymph node
+P-0028268,7.364,0,1,Soft Tissue Sarcoma,Adrenal Gland
+P-0028288,41.293,0,1,Endometrial Cancer,Lymph Node
+P-0028337,23.441,1,0,Non-Small Cell Lung Cancer,Unspecified
+P-0028352,41.293,0,0,Soft Tissue Sarcoma,Lung
+P-0028382,29.984,1,0,Esophagogastric Cancer,Peritoneum
+P-0028391,20.942,1,0,Non-Small Cell Lung Cancer,Liver
+P-0028570,19.89,1,1,Esophagogastric Cancer,Lymph Node
+P-0028599,33.14,0,0,Breast Cancer,Lung
+P-0028620,41.129,0,0,Embryonal Tumor,CSF
+P-0028641,11.803,1,0,Pancreatic Cancer,Soft Tissue
+P-0028644,22.225,1,0,Soft Tissue Sarcoma,Bowel
+P-0028660,30.51,0,0,Colorectal Cancer,Liver
+P-0028675,41.162,0,0,Breast Cancer,Brain
+P-0028693,26.729,1,0,Cancer of Unknown Primary,Bone
+P-0028723,39.945,0,0,Glioma,Pleural Fluid
+P-0028777,25.742,1,0,Bladder Cancer,Lymph Node
+P-0028805,40.866,0,0,Salivary Gland Cancer,Bone
+P-0028809,33.074,0,1,Non-Small Cell Lung Cancer,Liver
+P-0028838,40.964,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0028843,39.09,0,1,Endometrial Cancer,Liver
+P-0028857,40.734,0,0,Colorectal Cancer,Liver
+P-0028895,19.331,0,1,Soft Tissue Sarcoma,Thigh
+P-0028909,26.762,1,0,Esophagogastric Cancer,Brain
+P-0028913,7.2,1,0,Colorectal Cancer,Liver
+P-0028925,40.636,0,0,Breast Cancer,Liver
+P-0028935,8.153,1,0,Colorectal Cancer,Brain
+P-0028941,21.994,1,0,Pancreatic Cancer,Liver
+P-0028944,33.699,1,0,Non-Small Cell Lung Cancer,CSF
+P-0028950,7.43,1,0,Soft Tissue Sarcoma,Unspecified
+P-0028971,15.222,1,0,Soft Tissue Sarcoma,Axilla
+P-0028996,20.614,1,1,Non-Small Cell Lung Cancer,Femur
+P-0029072,21.534,1,0,Gastrointestinal Stromal Tumor,Soft Tissue
+P-0029093,30.871,1,0,Pancreatic Cancer,Liver
+P-0029105,15.518,1,1,Prostate Cancer,Lymph Node
+P-0029115,33.731,0,0,Non-Small Cell Lung Cancer,Liver
+P-0029140,12.592,1,0,Breast Cancer,Soft Tissue
+P-0029145,40.701,0,0,Wilms Tumor,Lung
+P-0029159,4.307,0,0,Glioma,Unspecified
+P-0029180,40.636,0,0,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0029222,39.386,0,0,Soft Tissue Sarcoma,Neck
+P-0029239,22.685,1,1,Bone Cancer,Vertebrae
+P-0029293,18.674,1,0,Salivary Gland Cancer,Bone
+P-0029295,22.455,1,1,Non-Small Cell Lung Cancer,Spine (Bone)
+P-0029307,39.847,0,0,Prostate Cancer,Bone
+P-0029315,26.992,1,0,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0029340,39.09,0,0,Hepatobiliary Cancer,Adrenal Gland
+P-0029362,12.953,1,1,Breast Cancer,Pleural Fluid
+P-0029428,38.236,0,0,Breast Cancer,Liver
+P-0029455,38.005,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0029532,40.208,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0029586,39.353,0,1,Colorectal Cancer,Brain
+P-0029592,37.249,0,0,Glioma,Unspecified
+P-0029609,20.745,1,0,Colorectal Cancer,Omentum
+P-0029655,33.271,1,1,Renal Cell Carcinoma,Lymph Node
+P-0029664,20.975,1,0,Prostate Cancer,Lymph Node
+P-0029716,40.044,0,1,Sex Cord Stromal Tumor,Lymph Node
+P-0029779,39.353,0,0,Non-Small Cell Lung Cancer,Liver
+P-0029790,39.452,0,0,Head and Neck Cancer,Lymph Node
+P-0029791,38.696,0,0,Cancer of Unknown Primary,Lung
+P-0029826,39.551,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0029844,26.827,1,0,Cervical Cancer,Small Bowel
+P-0029852,39.584,0,1,Bladder Cancer,Bone
+P-0029892,6.378,1,1,Hepatobiliary Cancer,Unspecified
+P-0029944,39.353,0,0,Non-Small Cell Lung Cancer,Chest Wall
+P-0029958,39.715,0,0,Breast Cancer,Pleura
+P-0029974,5.03,1,0,Non-Small Cell Lung Cancer,Bone
+P-0030007,22.751,1,0,Soft Tissue Sarcoma,Lymph Node
+P-0030048,38.597,0,0,Esophagogastric Cancer,Brain
+P-0030053,39.748,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0030133,38.893,0,0,Bladder Cancer,Lymph Node
+P-0030136,36.559,1,0,Head and Neck Cancer,Lymph node
+P-0030168,39.353,0,0,Breast Cancer,Chest Wall
+P-0030240,33.468,0,0,Breast Cancer,Soft Tissue
+P-0030249,39.255,0,0,Breast Cancer,Skin
+P-0030279,39.025,0,0,Bone Cancer,Soft tissue
+P-0030296,24.427,1,0,Thyroid Cancer,Lung
+P-0030342,39.255,0,0,Breast Cancer,Bone
+P-0030371,37.973,0,0,Soft Tissue Sarcoma,Lung
+P-0030439,4.537,1,0,Breast Cancer,Lymph node
+P-0030465,38.794,0,1,Prostate Cancer,Lymph Node
+P-0030545,28.307,1,0,Breast Cancer,Liver
+P-0030555,12.427,1,0,Mesothelioma,Bone
+P-0030562,39.09,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0030594,9.074,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0030653,1.71,0,0,Germ Cell Tumor,Spine
+P-0030706,38.762,0,0,Non-Small Cell Lung Cancer,Brain
+P-0030797,33.37,0,0,Non-Small Cell Lung Cancer,Epidural
+P-0030870,36.164,0,1,Endometrial Cancer,Omentum
+P-0030901,36.921,0,1,Esophagogastric Cancer,Unspecified
+P-0030967,30.016,1,0,Hepatobiliary Cancer,Brain
+P-0030998,37.973,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0031005,28.241,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0031010,37.973,0,0,Non-Small Cell Lung Cancer,Unspecified
+P-0031015,33.271,0,0,Prostate Cancer,Lymph Node
+P-0031030,6.016,1,0,Endometrial Cancer,Skin
+P-0031102,30.214,0,0,Colorectal Cancer,Spleen
+P-0031131,29.885,0,0,Pancreatic Cancer,Lung
+P-0031133,14.762,1,0,Breast Cancer,Skin
+P-0031137,27.682,1,0,Prostate Cancer,Bone
+P-0031178,17.458,1,1,Prostate Cancer,Kidney
+P-0031216,38.499,0,0,Colorectal Cancer,Liver
+P-0031286,17.918,1,0,Melanoma,Lymph Node
+P-0031313,37.874,0,0,Bone Cancer,Lung
+P-0031325,37.841,0,0,Bladder Cancer,Lung
+P-0031374,37.348,0,1,Prostate Cancer,Lymph Node
+P-0031393,30.115,1,0,Pancreatic Cancer,Bone
+P-0031409,15.649,1,0,Colorectal Cancer,Liver
+P-0031477,32.186,1,0,Breast Cancer,Brain
+P-0031534,36.756,0,0,Glioma,Unspecified
+P-0031583,24.427,1,1,Colorectal Cancer,Lung
+P-0031619,37.808,0,0,Bladder Cancer,Lung
+P-0031642,37.94,0,0,Head and Neck Cancer,Lung
+P-0031646,13.808,1,0,Renal Cell Carcinoma,Abdomen
+P-0031650,7.956,1,1,Head and Neck Cancer,Liver
+P-0031651,16.899,1,1,Head and Neck Cancer,Pleura
+P-0031660,31.43,0,0,Head and Neck Cancer,Unspecified
+P-0031684,28.471,1,0,Breast Cancer,Liver
+P-0031686,35.54,0,0,Small Cell Lung Cancer,Lymph Node
+P-0031691,35.441,0,0,Uterine Sarcoma,Periaortic Mass
+P-0031803,36.822,0,0,Colorectal Cancer,Liver
+P-0031808,13.71,1,1,Prostate Cancer,Liver
+P-0031827,35.441,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0031911,37.184,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0031918,5.523,1,0,Pancreatic Cancer,Peritoneum
+P-0032057,24.789,1,0,Salivary Gland Cancer,Bone
+P-0032061,10.915,0,0,Glioma,Unspecified
+P-0032070,37.216,0,0,Colorectal Cancer,Liver
+P-0032097,36.855,0,0,Bladder Cancer,Liver
+P-0032100,36.789,0,0,Breast Cancer,Lung
+P-0032111,31.594,1,0,Bladder Cancer,Lymph Node
+P-0032151,37.151,0,0,Breast Cancer,Lymph Node
+P-0032161,1.874,0,0,Endometrial Cancer,Soft Tissue Back
+P-0032171,36.953,0,0,Ovarian Cancer,Soft Tissue
+P-0032174,18.312,1,0,Breast Cancer,Lymph node
+P-0032175,12.164,1,0,Non-Small Cell Lung Cancer,Brain - Dura
+P-0032183,21.896,0,0,Non-Small Cell Lung Cancer,Brain
+P-0032213,37.249,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0032279,37.184,0,0,Breast Cancer,Liver
+P-0032284,13.052,1,0,Bladder Cancer,Bone
+P-0032313,20.614,1,0,Glioma,Unspecified
+P-0032352,36.164,0,0,Prostate Cancer,Lymph Node
+P-0032358,36.263,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0032363,36.855,0,0,Colorectal Cancer,Liver
+P-0032411,22.192,1,0,Breast Cancer,Pleura
+P-0032425,12.197,1,0,Endometrial Cancer,Lung
+P-0032439,36.526,0,1,Colorectal Cancer,Liver
+P-0032466,36.592,0,0,Non-Small Cell Lung Cancer,Vertebrate
+P-0032474,36.986,0,0,Mesothelioma,Lung
+P-0032535,36.888,0,0,Pancreatic Cancer,Soft Tissue
+P-0032553,20.384,1,0,Breast Cancer,Bone
+P-0032569,16.833,0,0,Colorectal Cancer,Small Bowel
+P-0032593,36.625,0,0,Head and Neck Cancer,Lymph Node
+P-0032594,29.162,1,0,Gastrointestinal Stromal Tumor,Omentum
+P-0032627,36.559,0,0,Pancreatic Cancer,Lung
+P-0032673,4.34,1,0,Breast Cancer,Lymph Node
+P-0032677,28.701,0,0,Pancreatic Cancer,Liver
+P-0032678,13.808,1,0,Esophagogastric Cancer,Muscle
+P-0032683,30.805,1,1,Non-Small Cell Lung Cancer,Bone
+P-0032684,36.723,0,0,Breast Cancer,Bone
+P-0032701,33.994,0,0,Prostate Cancer,Lymph Node
+P-0032706,36.756,0,1,Breast Cancer,Bone
+P-0032721,36.493,0,0,Breast Cancer,Brain
+P-0032729,0.69,1,0,Thyroid Cancer,Vertebrate
+P-0032741,1.644,1,0,Renal Cell Carcinoma,Skin
+P-0032808,26.334,1,0,Ovarian Cancer,Skin
+P-0032824,9.929,1,0,Colorectal Cancer,Liver
+P-0032827,8.088,1,0,Non-Small Cell Lung Cancer,Right Lung Pleura
+P-0032829,21.074,1,0,Hepatobiliary Cancer,Liver
+P-0032859,35.014,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0032893,5.885,1,0,Nerve Sheath Tumor,Bone
+P-0032909,35.934,0,0,Soft Tissue Sarcoma,Unspecified
+P-0032997,36.263,0,0,Germ Cell Tumor,Lung
+P-0033018,1.578,0,0,Breast Cancer,Skin
+P-0033020,8.121,1,0,Renal Cell Carcinoma,Soft Tissue
+P-0033082,33.896,0,0,Non-Small Cell Lung Cancer,Lung
+P-0033134,34.784,0,0,Renal Cell Carcinoma,Lung
+P-0033219,17.096,1,0,Breast Cancer,Liver
+P-0033326,23.178,1,1,Hepatobiliary Cancer,Unspecified
+P-0033436,35.145,0,1,Bladder Cancer,Soft Tissue
+P-0033463,17.589,1,0,Cervical Cancer,Lung
+P-0033466,20.515,1,0,Breast Cancer,Skin
+P-0033469,35.244,0,0,Soft Tissue Sarcoma,Unspecified
+P-0033473,35.474,0,0,Soft Tissue Sarcoma,Colon
+P-0033485,35.014,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0033492,35.573,0,0,Breast Cancer,Lymph node
+P-0033530,29.852,1,0,Renal Cell Carcinoma,Brain
+P-0033651,19.726,1,0,Breast Cancer,Pleura
+P-0033663,2.926,1,0,Mesothelioma,Pericardium
+P-0033709,34.718,0,0,Breast Cancer,Rectum
+P-0033750,13.512,1,1,Endometrial Cancer,Vagina
+P-0033764,17.359,1,0,Non-Small Cell Lung Cancer,Pericardium
+P-0033799,20.548,0,0,Bladder Cancer,Liver
+P-0033851,34.948,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0033856,35.211,0,1,Colorectal Cancer,Liver
+P-0033882,8.778,1,0,Germ Cell Tumor,Brain
+P-0033921,30.707,1,0,Breast Cancer,Chest Wall
+P-0033927,6.345,1,1,Uterine Sarcoma,Unknown
+P-0033964,33.271,0,0,Salivary Gland Cancer,Lung
+P-0033972,29.26,1,1,Renal Cell Carcinoma,Lymph Node
+P-0034026,35.211,0,0,Colorectal Cancer,Liver
+P-0034036,31.299,0,0,Colorectal Cancer,Liver
+P-0034039,34.915,0,1,Prostate Cancer,Pelvis
+P-0034062,12.756,1,0,Non-Small Cell Lung Cancer,Liver
+P-0034088,34.586,0,0,Colorectal Cancer,Liver
+P-0034157,25.447,1,0,Endometrial Cancer,Pleura
+P-0034163,19.167,1,0,Non-Small Cell Lung Cancer,Liver
+P-0034191,9.6,1,0,Colorectal Cancer,Brain
+P-0034359,34.882,0,0,Breast Cancer,Bone
+P-0034371,12.066,0,0,Glioma,Unspecified
+P-0034385,8.745,1,0,Breast Cancer,Bone
+P-0034446,6.214,1,0,Breast Cancer,Lymph Node
+P-0034502,25.381,1,0,Non-Small Cell Lung Cancer,Liver
+P-0034514,34.553,0,0,Breast Cancer,Liver
+P-0034519,34.455,0,0,Ovarian Cancer,Brain
+P-0034556,34.586,0,0,Wilms Tumor,Soft Tissue
+P-0034605,34.553,0,1,Breast Cancer,Neck
+P-0034632,34.553,0,0,Prostate Cancer,Bone
+P-0034694,34.159,0,0,Bladder Cancer,Lymph node
+P-0034729,34.06,0,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0034730,33.994,0,1,Sellar Tumor,Parotid Gland
+P-0034764,21.14,0,1,Breast Cancer,Chest Wall
+P-0034774,24.033,0,1,Colorectal Cancer,Liver
+P-0034775,34.093,0,0,Endometrial Cancer,Liver
+P-0034842,33.37,0,0,Vaginal Cancer,Lymph Node
+P-0034852,31.167,0,0,Breast Cancer,Lymph Node
+P-0034880,10.356,1,0,Endometrial Cancer,Brain
+P-0034906,33.6,1,0,Bladder Cancer,Neck
+P-0034918,1.315,0,0,Glioma,Unspecified
+P-0034929,2.005,0,0,Colorectal Cancer,Peritoneum
+P-0034971,13.479,1,0,Breast Cancer,Liver
+P-0034991,28.767,1,0,Soft Tissue Sarcoma,Liver
+P-0035063,33.896,0,0,Breast Cancer,Liver
+P-0035076,30.74,0,0,Bladder Cancer,Liver
+P-0035107,31.529,0,0,Prostate Cancer,Soft Tissue
+P-0035153,33.797,0,0,Glioma,Unspecified
+P-0035156,34.06,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0035161,28.504,1,0,Hepatobiliary Cancer,Axilla
+P-0035162,26.268,1,0,Non-Small Cell Lung Cancer,Liver
+P-0035166,31.825,0,0,Breast Cancer,Brain
+P-0035247,15.879,1,1,Bladder Cancer,Lymph Node
+P-0035340,33.83,0,1,Non-Small Cell Lung Cancer,Brain
+P-0035444,31.463,0,0,Non-Small Cell Lung Cancer,Lung
+P-0035445,12.723,1,0,Prostate Cancer,Liver
+P-0035466,33.83,1,0,Non-Small Cell Lung Cancer,Unspecified
+P-0035505,16.208,0,0,Non-Small Cell Lung Cancer,Neck
+P-0035510,33.041,0,1,Breast Cancer,Lymph Node
+P-0035514,16.11,1,0,Breast Cancer,Lung
+P-0035549,33.764,0,0,Colorectal Cancer,Liver
+P-0035590,10.521,1,0,Non-Small Cell Lung Cancer,Liver
+P-0035665,33.567,0,0,Pineal Tumor,Unspecified
+P-0035710,33.501,0,1,Non-Small Cell Lung Cancer,Liver
+P-0035760,33.501,0,0,Gastrointestinal Neuroendocrine Tumor,Liver
+P-0035767,33.468,0,0,Pancreatic Cancer,Liver
+P-0035768,31.726,0,1,Germ Cell Tumor,Mediastinum
+P-0035780,7.595,0,0,Pancreatic Cancer,Abdomen
+P-0035785,9.83,1,0,Pancreatic Cancer,Liver
+P-0035812,29.984,1,0,Esophagogastric Cancer,Peritoneal Fluid
+P-0035844,33.436,0,1,Soft Tissue Sarcoma,Femur
+P-0035846,32.482,0,0,Bone Cancer,Brain
+P-0035890,8.778,1,0,Non-Small Cell Lung Cancer,Adrenal
+P-0035896,33.238,0,0,Non-Small Cell Lung Cancer,Mediastinum
+P-0035964,33.37,0,0,Breast Cancer,Liver
+P-0035973,19.858,1,0,Breast Cancer,Lymph Node
+P-0035999,12.329,1,0,Bladder Cancer,Lymph Node
+P-0036000,33.041,0,0,Non-Small Cell Lung Cancer,Brain
+P-0036029,33.041,0,0,Prostate Cancer,Peritoneum
+P-0036134,21.699,1,0,Breast Cancer,Lymph Node
+P-0036181,32.745,0,0,Breast Cancer,Lymph Node
+P-0036263,32.515,0,0,Colorectal Cancer,Lymph Node
+P-0036307,17.721,1,0,Glioma,CSF
+P-0036381,31.2,0,1,Soft Tissue Sarcoma,Lymph Node
+P-0036383,22.751,1,1,Colorectal Cancer,Soft Tissue
+P-0036397,21.633,0,0,Non-Small Cell Lung Cancer,Adrenal Gland
+P-0036400,29.425,1,0,Soft Tissue Sarcoma,Lung
+P-0036408,26.466,1,0,Bladder Cancer,Lymph node
+P-0036450,32.252,0,0,Colorectal Cancer,Lung
+P-0036501,15.255,1,0,Cervical Cancer,Lung
+P-0036557,14.696,1,0,Prostate Cancer,Liver
+P-0036560,31.594,0,0,Prostate Cancer,Spine
+P-0036564,32.581,0,0,"Skin Cancer, Non-Melanoma",Lymph Node
+P-0036669,11.671,1,0,Salivary Gland Cancer,Unspecified
+P-0036677,31.2,0,1,Prostate Cancer,Bone
+P-0036687,8.449,1,0,Non-Small Cell Lung Cancer,Bone
+P-0036725,31.989,0,0,Bladder Cancer,Lymph Node
+P-0036731,17.721,1,0,Breast Cancer,Liver
+P-0036764,32.186,0,0,Prostate Cancer,Bone
+P-0036804,27.485,1,1,Prostate Cancer,Bone
+P-0036810,32.153,0,0,Non-Small Cell Lung Cancer,Brain
+P-0036885,31.529,0,1,Bladder Cancer,Lymph Node
+P-0036911,32.285,0,0,Esophagogastric Cancer,Liver
+P-0036912,32.285,0,0,Cervical Cancer,Brain
+P-0036915,12.23,1,1,Non-Small Cell Lung Cancer,Pleura
+P-0036916,30.871,0,0,Colorectal Cancer,Left Frontal Brain
+P-0037025,28.537,1,0,Ovarian Cancer,Skin
+P-0037088,31.989,0,1,Breast Cancer,Bone
+P-0037133,31.956,0,0,Gastrointestinal Stromal Tumor,Liver
+P-0037181,7.299,1,0,Soft Tissue Sarcoma,Diaphragm
+P-0037182,25.907,1,0,Soft Tissue Sarcoma,Unspecified
+P-0037224,8.679,1,0,Ampullary Cancer,Liver
+P-0037265,9.205,1,1,Endometrial Cancer,Cerebellum
+P-0037280,20.942,1,0,Gastrointestinal Stromal Tumor,Liver
+P-0037292,16.734,0,0,Endometrial Cancer,Lung
+P-0037300,31.726,0,1,Colorectal Cancer,Adrenal Gland
+P-0037340,3.912,1,0,Colorectal Cancer,Scalp
+P-0037389,28.866,0,0,Breast Cancer,Lymph Node
+P-0037411,10.652,1,0,Colorectal Cancer,Liver
+P-0037428,27.814,0,0,Bladder Cancer,Lymph Node
+P-0037483,31.529,0,0,Colorectal Cancer,Pelvis
+P-0037606,28.866,0,0,Melanoma,Lung
+P-0037664,30.247,0,0,Prostate Cancer,Lung
+P-0037759,12.395,1,1,Breast Cancer,Lung
+P-0037795,24.362,0,0,Colorectal Cancer,Liver
+P-0037818,7.299,1,0,Breast Cancer,Chest Wall
+P-0037834,21.403,1,0,Pancreatic Cancer,Liver
+P-0037957,30.97,0,0,Colorectal Cancer,Liver
+P-0038062,16.044,0,0,Colorectal Cancer,Peritoneum
+P-0038126,27.912,0,0,Breast Cancer,Liver
+P-0038208,30.773,0,1,Non-Small Cell Lung Cancer,Liver
+P-0038280,30.444,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0038287,30.805,0,0,Colorectal Cancer,Brain
+P-0038330,30.542,0,0,Bladder Cancer,Lung
+P-0038412,20.844,1,0,Prostate Cancer,Bone
+P-0038449,3.879,0,0,Breast Cancer,Bladder
+P-0038570,10.882,1,1,Bone Cancer,Brain
+P-0038634,30.312,0,1,Ovarian Cancer,Pelvis
+P-0038696,13.677,1,0,Breast Cancer,Lymph Node
+P-0038724,8.975,1,0,Breast Cancer,Omentum
+P-0038742,13.512,1,0,Ovarian Cancer,Omentum
+P-0038821,30.049,0,0,Non-Small Cell Lung Cancer,Lung
+P-0038825,30.279,0,0,Colorectal Cancer,Lung
+P-0038833,29.786,0,1,Non-Small Cell Lung Cancer,Lymph node
+P-0038838,8.548,1,0,Ovarian Cancer,Brain
+P-0038857,8.679,1,0,Esophagogastric Cancer,Liver
+P-0038879,30.247,0,0,Bladder Cancer,Lymph Node
+P-0038959,29.523,0,0,Soft Tissue Sarcoma,Vertebrate
+P-0038961,29.918,1,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0038968,28.8,0,0,Prostate Cancer,Lymph Node
+P-0038984,29.096,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0039030,11.474,1,1,Colorectal Cancer,Peritoneum
+P-0039058,30.115,0,0,Colorectal Cancer,Liver
+P-0039131,30.049,0,0,Breast Cancer,Bone
+P-0039163,30.082,0,0,Colorectal Cancer,Liver
+P-0039199,27.123,0,1,Gastrointestinal Stromal Tumor,Sternum
+P-0039208,28.931,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0039221,9.962,1,0,Retinoblastoma,CSF
+P-0039226,29.951,0,0,Breast Cancer,Brain
+P-0039356,21.567,1,0,Pancreatic Cancer,Liver
+P-0039386,29.918,0,0,Bladder Cancer,Lymph Node
+P-0039402,19.2,1,1,Prostate Cancer,Bone
+P-0039410,29.227,0,0,Melanoma,Brain
+P-0039412,13.907,1,0,Glioma,Unspecified
+P-0039432,27.912,1,0,Breast Cancer,Sternum
+P-0039465,29.852,0,0,Non-Small Cell Lung Cancer,Adrenal
+P-0039467,5.523,1,0,Breast Cancer,Lung
+P-0039474,0.625,1,1,Non-Small Cell Lung Cancer,Liver
+P-0039511,9.501,1,0,Ovarian Cancer,Brain
+P-0039586,21.14,0,0,Salivary Gland Cancer,Lung
+P-0039604,28.241,0,0,Non-Small Cell Lung Cancer,Liver
+P-0039614,28.373,0,0,Breast Cancer,Lymph Node
+P-0039631,28.142,0,0,Non-Small Cell Lung Cancer,Neck
+P-0039648,3.748,1,0,Prostate Cancer,Lung
+P-0039666,29.688,0,0,Bladder Cancer,Pelvis
+P-0039859,28.274,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0039898,29.523,0,0,Breast Cancer,Brain
+P-0039904,0.559,1,1,Non-Small Cell Lung Cancer,Right Lung Pleura
+P-0039930,0.526,1,0,Breast Cancer,Liver
+P-0039967,15.847,1,0,Non-Small Cell Lung Cancer,Pleura
+P-0039971,29.03,0,0,Soft Tissue Sarcoma,Liver
+P-0039989,20.121,1,0,Ovarian Cancer,Vagina
+P-0039994,27.978,0,0,Bladder Cancer,Lymph Node
+P-0040034,15.255,1,0,Non-Small Cell Lung Cancer,Brain
+P-0040109,7.956,1,0,Bladder Cancer,Small Intestine
+P-0040206,22.027,0,0,Bladder Cancer,Unspecified
+P-0040256,28.34,0,0,Pancreatic Cancer,Skin
+P-0040332,19.2,1,0,Pancreatic Cancer,Pleura
+P-0040383,27.584,1,0,Colorectal Cancer,Lung
+P-0040443,0.0,1,0,Head and Neck Cancer,Lung
+P-0040504,15.288,1,0,Ovarian Cancer,Breast
+P-0040519,28.899,0,0,Prostate Cancer,Bone
+P-0040533,27.452,0,1,Bladder Cancer,Lymph Node
+P-0040569,28.241,0,0,Bladder Cancer,Lymph Node
+P-0040586,20.975,0,0,Bladder Cancer,Lymph Node
+P-0040655,23.277,1,0,Non-Small Cell Lung Cancer,Cerebellum
+P-0040730,26.433,1,0,Small Cell Lung Cancer,Liver
+P-0040826,28.537,0,1,Prostate Cancer,Bone
+P-0040843,21.37,1,1,Bladder Cancer,Bone
+P-0040863,20.581,1,0,Bone Cancer,Humerus
+P-0040982,11.54,1,0,Colorectal Cancer,Liver
+P-0040984,7.167,0,0,Non-Small Cell Lung Cancer,Liver
+P-0041054,28.405,0,0,Melanoma,Liver
+P-0041063,0.197,0,0,Glioma,Unspecified
+P-0041069,1.808,0,0,Melanoma,Neck
+P-0041074,25.216,0,0,Soft Tissue Sarcoma,Unspecified
+P-0041092,27.814,0,0,Glioma,Unspecified
+P-0041149,10.422,0,1,Non-Small Cell Lung Cancer,Liver
+P-0041169,28.142,0,0,Colorectal Cancer,Lung
+P-0041221,13.479,1,0,Glioma,CSF
+P-0041296,26.433,1,0,Endometrial Cancer,Peritoneum
+P-0041327,9.83,1,0,Melanoma,CSF
+P-0041436,28.208,0,1,Colorectal Cancer,Soft Tissue
+P-0041528,28.044,0,0,Colorectal Cancer,Liver
+P-0041531,28.044,0,0,Bladder Cancer,Lymph Node
+P-0041570,27.649,0,0,Pancreatic Cancer,Liver
+P-0041577,1.282,1,0,Non-Small Cell Lung Cancer,Retroperitoneum
+P-0041649,27.978,0,1,Glioma,Unspecified
+P-0041659,27.123,0,0,Prostate Cancer,Liver
+P-0041715,27.879,0,1,Endometrial Cancer,Soft Tissue
+P-0041852,21.633,0,0,Head and Neck Cancer,Lymph node
+P-0041879,3.912,0,0,Cancer of Unknown Primary,Lung
+P-0041991,18.641,0,0,Soft Tissue Sarcoma,Lung
+P-0042047,27.649,0,0,Non-Small Cell Lung Cancer,Kidney
+P-0042061,27.485,0,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0042066,26.827,0,0,Colorectal Cancer,Spine (bone)
+P-0042157,20.416,1,0,Esophagogastric Cancer,Liver
+P-0042173,22.816,0,0,Non-Small Cell Lung Cancer,CSF
+P-0042177,16.011,1,0,Prostate Cancer,Peritoneum
+P-0042222,23.836,0,0,Esophagogastric Cancer,Lymph Node
+P-0042293,27.386,0,0,Bone Cancer,Lung
+P-0042513,20.975,1,1,Bone Cancer,Lung
+P-0042594,24.822,1,0,Bladder Cancer,Lymph node
+P-0042626,4.734,1,1,Vaginal Cancer,Lung
+P-0042642,23.112,0,0,Bladder Cancer,Pelvis
+P-0042681,22.455,1,1,Prostate Cancer,Bone
+P-0042695,23.178,0,0,Breast Cancer,Skin
+P-0042732,2.663,0,0,Non-Small Cell Lung Cancer,CSF
+P-0042764,7.726,0,0,Ovarian Cancer,Lymph Node
+P-0042789,26.926,0,0,Bone Cancer,Lung
+P-0042801,12.329,1,0,Endometrial Cancer,Brain
+P-0042807,17.458,1,0,Glioma,Unspecified
+P-0042809,26.071,0,0,Breast Cancer,Liver
+P-0042811,26.433,0,0,Wilms Tumor,Liver
+P-0042865,12.164,0,1,Bladder Cancer,Lymph Node
+P-0042868,9.271,1,1,Breast Cancer,Lung
+P-0042882,7.463,1,0,Pancreatic Cancer,Omentum
+P-0042887,22.027,0,1,Breast Cancer,Unspecified
+P-0043001,26.729,0,0,Colorectal Cancer,Peritoneum
+P-0043033,26.499,0,1,Endometrial Cancer,Lung
+P-0043035,11.244,1,1,Non-Small Cell Lung Cancer,Mediastinum
+P-0043067,26.268,0,0,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0043104,9.14,1,0,Salivary Gland Cancer,Soft Tissue
+P-0043121,24.033,0,1,Bladder Cancer,Lymph Node
+P-0043146,25.71,0,0,Thyroid Cancer,Bone
+P-0043187,26.466,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0043226,9.304,0,1,Esophagogastric Cancer,Liver
+P-0043278,19.331,0,0,Endometrial Cancer,Lymph Node
+P-0043347,18.279,1,1,Bladder Cancer,Lung
+P-0043364,24.888,1,0,Colorectal Cancer,Liver
+P-0043419,26.104,0,0,Breast Cancer,Chest Wall
+P-0043534,25.216,0,0,Pancreatic Cancer,Liver
+P-0043562,23.967,0,0,Non-Small Cell Lung Cancer,Adrenal Gland
+P-0043592,10.06,0,0,Colorectal Cancer,Liver
+P-0043637,26.071,0,1,Prostate Cancer,Soft Tissue
+P-0043653,25.085,0,0,Colorectal Cancer,Liver
+P-0043656,26.203,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0043778,24.394,0,0,Bone Cancer,Lung
+P-0043804,20.449,1,0,Glioma,Unspecified
+P-0043877,25.742,0,0,Bladder Cancer,Soft Tissue
+P-0043891,5.129,1,0,Bladder Cancer,Lung
+P-0043972,0.855,1,0,Non-Small Cell Lung Cancer,Lymph node
+P-0044005,23.54,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0044014,23.54,1,0,Bladder Cancer,Bone
+P-0044075,25.742,0,0,Endometrial Cancer,Bone
+P-0044098,25.611,0,1,Bladder Cancer,Liver
+P-0044204,25.184,0,0,Bladder Cancer,Lung
+P-0044322,11.704,1,0,Bladder Cancer,Retroperitoneum
+P-0044362,21.403,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0044386,19.068,1,0,Bladder Cancer,Lymph Node
+P-0044415,24.592,0,0,Bladder Cancer,Retroperitoneum
+P-0044445,25.249,0,0,Bladder Cancer,Lymph Node
+P-0044459,13.578,1,1,Pancreatic Cancer,Pelvis
+P-0044470,5.655,1,0,Non-Small Cell Lung Cancer,Bone
+P-0044491,18.74,1,0,Bladder Cancer,Neck
+P-0044511,9.797,1,0,Bladder Cancer,Lymph Node
+P-0044527,1.808,1,1,Thyroid Cancer,Neck
+P-0044554,6.542,1,0,Bladder Cancer,Pelvis
+P-0044602,5.622,1,0,Glioma,Unspecified
+P-0044610,23.145,0,0,Endometrial Cancer,Bladder
+P-0044647,24.099,0,1,Soft Tissue Sarcoma,Lymph Node
+P-0044694,12.888,1,0,Bladder Cancer,Abdomen
+P-0044707,5.885,1,0,Non-Small Cell Lung Cancer,Bone
+P-0044740,22.652,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0044754,25.249,0,0,Head and Neck Cancer,Lymph Node
+P-0044788,25.151,0,0,Melanoma,Lymph Node
+P-0044796,24.921,0,0,Ovarian Cancer,cerebrospinal fluid
+P-0044917,19.463,1,1,Bone Cancer,Lung
+P-0044921,22.027,1,0,Gastrointestinal Neuroendocrine Tumor,Ovary
+P-0044960,17.688,1,0,Small Cell Lung Cancer,CSF
+P-0044969,8.186,1,0,Non-Small Cell Lung Cancer,Colon
+P-0045016,24.066,0,0,Small Cell Lung Cancer,Brain
+P-0045056,24.625,0,0,Bladder Cancer,Soft Tissue
+P-0045145,24.164,0,0,Gastrointestinal Stromal Tumor,Pelvic Nodule
+P-0045227,24.756,0,0,Salivary Gland Cancer,Lung
+P-0045228,24.756,0,1,Prostate Cancer,Bone
+P-0045256,6.542,1,0,Non-Small Cell Lung Cancer,Bone
+P-0045300,10.422,0,0,Bladder Cancer,Lymph Node
+P-0045437,24.329,0,0,Bladder Cancer,Lymph Node
+P-0045449,12.822,1,0,Bladder Cancer,Liver
+P-0045450,24.526,0,1,Melanoma,Brain
+P-0045478,23.277,0,0,Soft Tissue Sarcoma,Lymph Node
+P-0045507,24.46,0,0,Bladder Cancer,Pelvis
+P-0045543,21.994,0,0,Bladder Cancer,Lymph node
+P-0045808,0.658,0,0,Thymic Tumor,Liver
+P-0045861,16.274,1,0,Bladder Cancer,Lung
+P-0045881,24.197,0,1,Prostate Cancer,Lymph node
+P-0045903,24.164,0,0,Bone Cancer,Pleura
+P-0045947,24.033,0,1,Ovarian Cancer,Omentum
+P-0045956,4.274,0,0,Small Cell Lung Cancer,Lymph Node
+P-0046083,22.751,0,0,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0046090,23.803,0,0,Non-Small Cell Lung Cancer,Liver
+P-0046106,24.033,0,0,Soft Tissue Sarcoma,Lung
+P-0046110,23.638,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0046128,1.414,1,1,Uterine Sarcoma,Pelvis
+P-0046165,23.671,0,1,Bladder Cancer,Soft Tissue
+P-0046201,23.474,0,0,Esophagogastric Cancer,Lung
+P-0046209,15.945,1,0,Non-Small Cell Lung Cancer,Brain
+P-0046260,21.074,0,0,Esophagogastric Cancer,Pleura
+P-0046262,23.671,0,0,Bladder Cancer,Lymph Node
+P-0046398,2.301,0,0,Soft Tissue Sarcoma,Lung
+P-0046437,19.101,1,0,Breast Cancer,Lymph Node
+P-0046494,13.348,1,0,Melanoma,Brain
+P-0046580,23.375,0,0,Bladder Cancer,Lymph Node
+P-0046593,5.951,0,0,Bladder Cancer,Bone
+P-0046605,11.638,1,0,Bladder Cancer,Soft Tissue
+P-0046653,18.148,1,0,Esophagogastric Cancer,Liver
+P-0046712,23.277,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0046752,20.778,0,0,Bladder Cancer,Lymph Node
+P-0046836,22.29,1,0,Esophagogastric Cancer,Peritoneum
+P-0046888,21.14,0,0,Sellar Tumor,Epidural
+P-0046983,20.449,0,0,Colorectal Cancer,Soft Tissue
+P-0046985,17.195,0,1,Soft Tissue Sarcoma,Lung
+P-0047003,11.178,1,0,Breast Cancer,Bone
+P-0047008,23.178,0,1,Prostate Cancer,Liver
+P-0047031,21.403,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0047037,21.929,0,0,Non-Small Cell Lung Cancer,Rib
+P-0047115,3.058,1,0,Soft Tissue Sarcoma,Lymph Node
+P-0047122,16.077,1,1,Glioma,Unspecified
+P-0047140,22.356,1,0,Breast Cancer,Lung
+P-0047234,4.734,0,1,Prostate Cancer,Liver
+P-0047288,22.849,0,0,Non-Small Cell Lung Cancer,Bone
+P-0047321,22.849,0,0,Thyroid Cancer,Soft Tissue
+P-0047355,18.148,1,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0047366,10.389,1,0,Undifferentiated Embryonal Sarcoma of the Liver,Brain
+P-0047376,22.389,0,0,Breast Cancer,Iliac Bone
+P-0047421,22.619,0,0,Bladder Cancer,Lymph Node
+P-0047438,6.838,0,0,Bladder Cancer,Liver
+P-0047486,21.633,0,0,Non-Small Cell Lung Cancer,Unspecified
+P-0047488,1.479,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0047505,22.751,0,0,Esophagogastric Cancer,Lymph Node
+P-0047506,12.0,0,0,Salivary Gland Cancer,Lymph Node
+P-0047567,22.652,0,0,Non-Small Cell Lung Cancer,Brain
+P-0047604,22.356,0,0,Bladder Cancer,Vagina
+P-0047668,22.553,0,0,Bladder Cancer,Lung
+P-0047741,22.29,0,0,Bladder Cancer,Adrenal Gland
+P-0047758,16.899,1,0,Breast Cancer,Scalp
+P-0047802,7.66,1,0,Breast Cancer,Brain
+P-0047863,22.06,0,0,Colorectal Cancer,Pancreas
+P-0047956,0.921,0,0,Prostate Cancer,Liver
+P-0048009,16.636,0,0,Bladder Cancer,Lymph node
+P-0048056,3.649,0,0,Esophagogastric Cancer,Soft Tissue
+P-0048102,20.449,1,0,Non-Small Cell Lung Cancer,Lymph node
+P-0048225,22.06,0,0,Bladder Cancer,Lymph Node
+P-0048267,21.074,0,0,Non-Small Cell Lung Cancer,Lung
+P-0048291,21.304,0,0,Bladder Cancer,Lung
+P-0048298,21.6,0,0,Bladder Cancer,Soft Tissue
+P-0048306,22.027,0,0,Bladder Cancer,Pelvis
+P-0048335,12.855,0,1,Soft Tissue Sarcoma,Lung
+P-0048386,6.444,1,0,Breast Cancer,Femur
+P-0048454,19.594,1,1,Bladder Cancer,Lung
+P-0048476,2.466,1,0,Sellar Tumor,Soft Tissue
+P-0048590,21.666,0,0,Bladder Cancer,Lymph Node
+P-0048601,13.644,1,0,Bladder Cancer,Liver
+P-0048653,16.175,0,0,Prostate Cancer,Bone
+P-0048662,12.131,1,0,Bladder Cancer,Brain
+P-0048696,18.838,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0048711,21.534,0,0,Breast Cancer,Liver
+P-0048746,14.926,1,0,Non-Small Cell Lung Cancer,Spine
+P-0048773,13.348,1,0,Bladder Cancer,Liver
+P-0048888,21.468,0,0,Non-Small Cell Lung Cancer,Adrenal Gland
+P-0048929,15.616,0,0,Soft Tissue Sarcoma,Brain
+P-0048951,21.37,0,0,Soft Tissue Sarcoma,Lung
+P-0048973,21.403,0,0,Bone Cancer,Lung
+P-0049011,21.403,0,0,Renal Cell Carcinoma,Lung
+P-0049041,20.942,0,1,Esophagogastric Cancer,Soft Tissue
+P-0049043,18.773,0,0,Embryonal Tumor,CSF
+P-0049078,8.318,0,1,Colorectal Cancer,Lung
+P-0049080,19.726,0,0,Bladder Cancer,Lymph Node
+P-0049130,21.008,0,0,Non-Small Cell Lung Cancer,right supraclavicular space
+P-0049350,18.707,1,0,Non-Small Cell Lung Cancer,Liver
+P-0049352,19.693,0,0,Soft Tissue Sarcoma,Colon
+P-0049375,19.331,1,1,Non-Small Cell Lung Cancer,Pleura
+P-0049382,16.767,1,0,Non-Small Cell Lung Cancer,Bone
+P-0049409,16.603,1,0,Pancreatic Cancer,Lung
+P-0049427,12.986,1,0,Prostate Cancer,Brain
+P-0049440,14.63,0,0,Bladder Cancer,Lymph Node
+P-0049488,21.008,0,0,Small Cell Lung Cancer,Pleura
+P-0049520,19.134,0,0,Prostate Cancer,Bone
+P-0049585,12.0,1,0,Esophagogastric Cancer,Liver
+P-0049593,19.167,0,0,Bladder Cancer,Lung
+P-0049597,3.879,1,1,Bladder Cancer,Lymph Node
+P-0049598,10.751,1,0,Bladder Cancer,Lymph Node
+P-0049606,20.055,0,0,Bladder Cancer,Lung
+P-0049640,20.679,0,1,Non-Small Cell Lung Cancer,Liver
+P-0049664,16.734,0,1,Esophagogastric Cancer,Liver
+P-0049783,20.581,0,1,Glioma,Unspecified
+P-0049833,20.318,0,0,Bone Cancer,Lung
+P-0049866,13.545,1,0,Bladder Cancer,Lymph Node
+P-0049904,2.992,0,1,Non-Small Cell Lung Cancer,Neck
+P-0049930,12.658,1,0,Esophagogastric Cancer,Lymph Node
+P-0049948,17.688,0,0,Pancreatic Cancer,Liver
+P-0050012,8.186,1,0,Renal Cell Carcinoma,Spine
+P-0050144,8.153,1,0,Bone Cancer,Unspecified
+P-0050150,19.43,1,0,Bladder Cancer,Lymph Node
+P-0050193,20.186,0,0,Bladder Cancer,Unspecified
+P-0050262,20.416,0,0,Pancreatic Cancer,Liver
+P-0050403,18.082,1,0,Esophagogastric Cancer,Peritoneal fluid
+P-0050451,3.09,1,0,Bladder Cancer,Lymph Node
+P-0050471,8.745,0,1,Non-Small Cell Lung Cancer,Breast
+P-0050488,17.753,0,0,Colorectal Cancer,Liver
+P-0050489,20.022,0,0,Esophagogastric Cancer,Peritoneum
+P-0050510,19.792,0,0,Renal Cell Carcinoma,Lymph Node
+P-0050522,11.54,1,0,Hepatobiliary Cancer,Lymph Node
+P-0050532,20.055,0,0,Endometrial Cancer,Pancreas
+P-0050544,20.088,0,0,Esophagogastric Cancer,Brain
+P-0050545,16.241,0,0,Bladder Cancer,Lymph node
+P-0050677,19.003,0,0,Non-Small Cell Lung Cancer,Spine
+P-0050707,18.148,1,0,Breast Cancer,Liver
+P-0050716,19.562,0,0,Prostate Cancer,Liver
+P-0050754,3.945,0,0,Endometrial Cancer,Lung
+P-0050756,9.173,1,0,Esophagogastric Cancer,Liver
+P-0050757,19.759,0,0,Bladder Cancer,Lymph Node
+P-0050760,19.2,0,0,Ovarian Cancer,Lymph Node
+P-0050765,19.825,0,0,Cervical Cancer,Ovary
+P-0050768,19.858,0,0,Bladder Cancer,Unspecified
+P-0050775,8.153,1,0,Breast Cancer,Liver
+P-0050862,3.452,1,0,Cancer of Unknown Primary,Lung
+P-0050932,13.841,0,0,Colorectal Cancer,Liver
+P-0050955,14.893,0,0,Bladder Cancer,Liver
+P-0050975,17.03,0,0,Bladder Cancer,Lung
+P-0050979,6.542,1,0,Prostate Cancer,Lymph Node
+P-0050988,8.515,0,1,Non-Small Cell Lung Cancer,Pleura
+P-0051005,19.594,0,0,Bladder Cancer,Lung
+P-0051024,19.627,0,0,Bladder Cancer,Lung
+P-0051041,19.627,0,0,Endometrial Cancer,Lymph Node
+P-0051054,18.97,0,0,Non-Small Cell Lung Cancer,Bone
+P-0051092,19.627,0,0,"Skin Cancer, Non-Melanoma",Lung
+P-0051135,18.51,0,0,Non-Small Cell Lung Cancer,Unspecified
+P-0051149,18.937,0,0,Bladder Cancer,Lymph Node
+P-0051160,14.696,0,0,Bladder Cancer,Unspecified
+P-0051180,3.518,1,0,Breast Cancer,Bone
+P-0051231,15.551,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0051239,19.036,0,0,Bladder Cancer,Soft Tissue
+P-0051252,19.463,0,0,Renal Cell Carcinoma,Lung
+P-0051258,19.463,0,1,Esophagogastric Cancer,Soft Tissue
+P-0051298,10.718,1,0,Glioma,Brain
+P-0051341,19.036,0,0,Bladder Cancer,Bone
+P-0051379,18.411,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0051410,18.904,0,0,Non-Small Cell Lung Cancer,Lung
+P-0051449,2.236,1,0,Head and Neck Cancer,Pleura
+P-0051462,10.619,1,0,Pineal Tumor,Unspecified
+P-0051469,18.74,0,0,Pancreatic Cancer,Liver
+P-0051509,19.036,0,0,Bladder Cancer,Lymph Node
+P-0051557,4.142,0,0,Pancreatic Cancer,Liver
+P-0051716,9.173,1,0,Mesothelioma,Bone
+P-0051769,3.616,1,0,Endometrial Cancer,Lung
+P-0051781,17.523,0,0,Non-Small Cell Lung Cancer,Pleural Fluid
+P-0051819,12.723,1,0,Bladder Cancer,Prostate
+P-0051958,0.427,1,1,Renal Cell Carcinoma,Pelvis
+P-0052008,17.786,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0052057,18.707,0,0,Breast Cancer,Skin
+P-0052061,17.425,0,0,Gastrointestinal Stromal Tumor,Soft Tissue
+P-0052108,18.707,0,0,Bladder Cancer,Bone
+P-0052146,18.345,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0052248,13.184,1,0,Head and Neck Cancer,Lung
+P-0052263,2.499,0,0,Breast Cancer,Bone
+P-0052273,9.436,1,0,Esophagogastric Cancer,Bone
+P-0052288,17.49,0,0,Peripheral Nervous System,Lymph Node
+P-0052291,7.627,0,1,Breast Cancer,Lymph Node
+P-0052316,4.8,0,0,Bladder Cancer,Lymph Node
+P-0052339,18.575,0,0,"Skin Cancer, Non-Melanoma",Lung
+P-0052411,18.477,0,0,Miscellaneous Neuroepithelial Tumor,Unspecified
+P-0052424,17.49,0,0,Colorectal Cancer,Liver
+P-0052439,7.364,0,0,Breast Cancer,Soft Tissue
+P-0052495,5.951,1,1,Bladder Cancer,Brain
+P-0052497,6.214,0,0,Bladder Cancer,Soft Tissue
+P-0052522,4.603,1,0,Breast Cancer,Lymph Node
+P-0052569,16.997,0,0,Soft Tissue Sarcoma,Back
+P-0052615,17.786,0,0,Breast Cancer,Pleura
+P-0052616,6.937,0,1,Esophagogastric Cancer,Skin
+P-0052698,17.26,0,1,Non-Small Cell Lung Cancer,Brain
+P-0052722,9.173,1,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0052724,7.989,1,0,Head and Neck Cancer,Lung
+P-0052731,14.104,1,0,Breast Cancer,Lymph node
+P-0052819,18.148,0,1,Non-Small Cell Lung Cancer,Lymph Node
+P-0052853,17.655,0,1,Bladder Cancer,Lymph Node
+P-0052908,10.093,1,0,Non-Small Cell Lung Cancer,Brain
+P-0052975,17.556,0,0,Breast Cancer,Liver
+P-0053044,0.855,1,0,Soft Tissue Sarcoma,Prostate
+P-0053166,9.896,1,0,Breast Cancer,Liver
+P-0053170,17.786,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0053218,1.184,1,0,Bladder Cancer,Liver
+P-0053219,6.411,1,0,Non-Small Cell Lung Cancer,Bone
+P-0053323,17.721,0,0,"Skin Cancer, Non-Melanoma",Parotid
+P-0053343,17.721,0,0,Non-Small Cell Lung Cancer,Soft Tissue
+P-0053369,17.063,0,0,Non-Small Cell Lung Cancer,Bone
+P-0053401,17.195,0,0,Breast Cancer,Pancreas
+P-0053403,17.293,0,1,Prostate Cancer,Lung
+P-0053430,16.997,0,0,Thyroid Cancer,Brain
+P-0053434,11.704,1,0,Pancreatic Cancer,Lung
+P-0053509,15.321,0,0,Renal Cell Carcinoma,Adrenal Gland
+P-0053561,4.208,1,0,Head and Neck Cancer,Lung
+P-0053644,17.063,0,0,Prostate Cancer,Bone
+P-0053648,16.899,0,0,Bladder Cancer,Liver
+P-0053651,17.49,0,1,,Unspecified
+P-0053694,15.222,0,1,Bladder Cancer,Lung
+P-0053704,17.293,0,0,Prostate Cancer,Bone
+P-0053751,15.847,0,0,Bladder Cancer,Lymph Node
+P-0053877,16.636,0,0,Bladder Cancer,Lymph Node
+P-0054011,17.129,0,0,Esophagogastric Cancer,Liver
+P-0054036,17.096,0,0,Pancreatic Cancer,Lung
+P-0054161,15.452,0,0,Wilms Tumor,Lung
+P-0054232,16.833,0,0,Prostate Cancer,Bone
+P-0054353,16.931,0,0,Bladder Cancer,Lung
+P-0054364,15.518,0,0,Hepatobiliary Cancer,Lung
+P-0054426,13.644,0,0,Colorectal Cancer,Gallbladder soft tissue
+P-0054475,16.636,0,0,Soft Tissue Sarcoma,Diaphragm
+P-0054532,15.419,0,0,Non-Small Cell Lung Cancer,Neck
+P-0054615,16.636,0,0,Colorectal Cancer,Lymph Node
+P-0054648,16.34,0,0,Non-Small Cell Lung Cancer,Adrenal Gland
+P-0054719,9.797,0,1,Cervical Cancer,Lymph node
+P-0054808,12.263,0,0,Bladder Cancer,Lymph Node
+P-0054868,15.682,0,0,Bladder Cancer,Lymph Node
+P-0054902,12.395,0,0,Non-Small Cell Lung Cancer,Brain
+P-0054926,15.715,0,0,Hepatobiliary Cancer,Lymph node
+P-0055111,14.827,1,0,Breast Cancer,Bone
+P-0055117,8.285,1,0,Non-Small Cell Lung Cancer,CSF
+P-0055141,9.107,1,1,Nerve Sheath Tumor,Lung
+P-0055143,14.236,0,0,Hepatobiliary Cancer,Lung
+P-0055285,10.126,1,0,Esophagogastric Cancer,Lung
+P-0055286,14.827,0,0,Bladder Cancer,Penis
+P-0055318,14.564,0,0,Non-Small Cell Lung Cancer,Mediastinum
+P-0055342,13.578,0,0,Non-Small Cell Lung Cancer,Abdomen
+P-0055449,14.038,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0055453,14.433,0,0,Esophagogastric Cancer,Pancreas
+P-0055482,7.167,1,0,Anal Cancer,Pericardium
+P-0055502,13.973,0,0,Non-Small Cell Lung Cancer,Skin
+P-0055621,13.479,0,0,Bladder Cancer,Soft Tissue
+P-0055769,11.244,1,0,Bladder Cancer,Soft Tissue
+P-0055809,14.104,0,1,Ovarian Cancer,Omentum
+P-0055841,14.071,0,0,Head and Neck Cancer,Liver
+P-0055936,13.841,0,0,Bladder Cancer,Liver
+P-0055953,12.395,0,0,Bladder Cancer,Lymph Node
+P-0056082,13.644,0,0,Esophagogastric Cancer,Liver
+P-0056146,12.789,0,0,Salivary Gland Cancer,Brain
+P-0056185,13.381,0,0,Breast Cancer,Lymph Node
+P-0056213,11.737,0,1,Prostate Cancer,Lung
+P-0056248,13.085,0,0,Bladder Cancer,Soft Tissue
+P-0056274,3.09,1,0,Colorectal Cancer,Liver
+P-0056296,13.414,0,0,Bladder Cancer,Lymph Node
+P-0056309,13.019,0,0,Non-Small Cell Lung Cancer,Soft Tissue
+P-0056332,13.414,0,0,Bladder Cancer,Liver
+P-0056361,13.315,0,0,Bladder Cancer,Lymph Node
+P-0056418,11.014,1,1,Germ Cell Tumor,Lung
+P-0056466,7.068,0,0,Bladder Cancer,Lymph Node
+P-0056503,12.789,0,0,Bladder Cancer,Lung
+P-0056523,12.69,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0056580,13.118,0,1,Non-Small Cell Lung Cancer,Brain
+P-0056584,12.592,0,0,Ovarian Cancer,Peritoneum
+P-0056684,11.605,0,0,Bone Cancer,Lung
+P-0056813,12.329,0,0,Bladder Cancer,Lymph node
+P-0056859,12.625,0,0,Esophagogastric Cancer,Liver
+P-0056866,12.625,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0056993,12.395,0,0,Bladder Cancer,Lung
+P-0057013,12.099,0,0,Esophagogastric Cancer,Brain
+P-0057186,11.342,1,0,Colorectal Cancer,Liver
+P-0057201,12.362,0,0,Bladder Cancer,Soft Tissue
+P-0057229,5.918,1,0,Breast Cancer,Lymph Node
+P-0057262,12.263,0,0,Breast Cancer,Lymph Node
+P-0057275,11.967,0,1,Non-Small Cell Lung Cancer,Liver
+P-0057491,11.54,0,0,Bladder Cancer,Lymph Node
+P-0057514,9.567,0,0,Gastrointestinal Stromal Tumor,Peritoneum
+P-0057533,10.784,0,0,"Skin Cancer, Non-Melanoma",Lung
+P-0057722,11.211,0,0,Bladder Cancer,Lymph Node
+P-0057737,10.455,1,0,Non-Small Cell Lung Cancer,Lung
+P-0057871,11.014,0,0,Ovarian Cancer,Brain
+P-0057884,7.2,1,1,Esophagogastric Cancer,Bone
+P-0058006,11.408,0,1,Breast Cancer,Lymph Node
+P-0058014,4.668,0,0,Bladder Cancer,Lymph Node
+P-0058139,11.079,0,1,Bladder Cancer,Lung
+P-0058157,10.258,1,0,Pancreatic Cancer,Liver
+P-0058338,10.685,0,0,Prostate Cancer,Lymph Node
+P-0058379,6.937,1,0,Renal Cell Carcinoma,Brain
+P-0058424,6.312,0,0,Bladder Cancer,Lung
+P-0058464,6.674,0,1,Endometrial Cancer,Ovary
+P-0058479,0.493,0,0,Esophagogastric Cancer,Peritoneum
+P-0058563,10.225,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0058637,8.252,1,0,Bladder Cancer,Bone
+P-0058643,10.06,0,0,Breast Cancer,Skin
+P-0058646,8.942,0,0,Bladder Cancer,Bone
+P-0058705,10.553,0,0,Bladder Cancer,Lymph Node
+P-0058721,9.929,0,0,Non-Small Cell Lung Cancer,Spine (bone)
+P-0058734,10.751,0,0,Pineal Tumor,Unspecified
+P-0058764,10.29,0,1,Renal Cell Carcinoma,n/a
+P-0058775,10.455,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0058881,2.499,1,1,Bladder Cancer,Soft Tissue
+P-0058882,5.49,0,0,Bladder Cancer,Lung
+P-0058899,9.403,0,0,Breast Cancer,Liver
+P-0058991,10.027,0,1,Peripheral Nervous System,Brain
+P-0059067,7.825,1,0,Soft Tissue Sarcoma,Bowel
+P-0059318,1.512,1,1,Breast Cancer,Bladder
+P-0059414,9.896,0,0,Esophagogastric Cancer,Neck soft tissue
+P-0059459,9.666,0,0,Non-Small Cell Lung Cancer,Brain
+P-0059466,4.57,0,0,Non-Small Cell Lung Cancer,CNS
+P-0059508,9.863,0,0,Salivary Gland Cancer,Lung
+P-0059527,6.674,0,1,Non-Small Cell Lung Cancer,Pleura
+P-0059576,5.195,1,0,Bladder Cancer,Liver
+P-0059599,9.929,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0059625,9.699,0,0,Endometrial Cancer,Pleural Fluid
+P-0059630,3.551,0,0,Bladder Cancer,Lung
+P-0059643,9.468,0,0,Cervical Cancer,Bone
+P-0059788,9.14,0,0,Head and Neck Cancer,CNS
+P-0059792,6.674,1,0,Colorectal Cancer,Bone
+P-0059859,2.86,0,1,Breast Cancer,Lymph Node
+P-0059938,9.337,0,0,Bladder Cancer,Liver
+P-0060026,9.6,0,1,Bladder Cancer,Retroperitoneum
+P-0060178,4.57,0,0,Non-Small Cell Lung Cancer,Mediastinum
+P-0060316,6.51,0,0,Peripheral Nervous System,Lymph node
+P-0060318,4.964,0,0,Soft Tissue Sarcoma,Lymph Node
+P-0060422,5.03,1,0,Bladder Cancer,Soft Tissue
+P-0060461,6.904,0,0,Soft Tissue Sarcoma,Lymph Node
+P-0060469,7.068,0,0,Breast Cancer,Liver
+P-0060497,5.885,1,0,Non-Small Cell Lung Cancer,Brain
+P-0060604,8.778,0,0,Glioma,CSF
+P-0060669,7.792,0,0,"Skin Cancer, Non-Melanoma",Lymph node
+P-0060681,8.778,0,1,Esophagogastric Cancer,Peritoneum
+P-0060685,8.712,0,0,Bladder Cancer,Lymph Node
+P-0060748,8.416,1,0,Non-Small Cell Lung Cancer,Bone
+P-0060769,7.627,0,0,Glioma,CSF
+P-0060804,8.515,0,1,Soft Tissue Sarcoma,Skin
+P-0060822,4.932,0,0,Bladder Cancer,Lymph Node
+P-0060850,7.792,0,0,Endometrial Cancer,Omentum
+P-0060879,4.307,1,0,Bladder Cancer,Lung
+P-0061063,5.556,0,0,Hepatobiliary Cancer,liver
+P-0061108,8.285,0,1,Breast Cancer,Lymph Node
+P-0061179,8.416,0,0,Bladder Cancer,Lymph Node
+P-0061297,6.608,0,1,Non-Small Cell Lung Cancer,Bone
+P-0061333,6.016,1,0,Non-Small Cell Lung Cancer,Abdomen
+P-0061430,6.674,0,0,Bladder Cancer,Lymph Node
+P-0061438,4.833,0,1,Melanoma,Liver
+P-0061471,5.523,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0061601,7.792,0,0,Non-Small Cell Lung Cancer,Lymph node
+P-0061673,3.551,1,0,Ovarian Cancer,Lung
+P-0061677,7.792,0,0,Hepatobiliary Cancer,Liver
+P-0061799,7.759,0,0,Bone Cancer,Lung
+P-0061836,7.134,0,0,Pancreatic Cancer,Liver
+P-0061969,7.43,0,0,Bladder Cancer,Liver
+P-0062195,4.405,0,0,Renal Cell Carcinoma,Bone
+P-0062239,7.167,0,0,Prostate Cancer,Bone
+P-0062484,3.978,0,0,Colorectal Cancer,Lymph node
+P-0062518,5.49,0,0,Prostate Cancer,Vertebrate
+P-0062817,6.214,0,0,Non-Small Cell Lung Cancer,CSF
+P-0062932,6.641,0,0,Breast Cancer,Bone
+P-0063288,5.885,0,0,Appendiceal Cancer,Diaphragm
+P-0063318,5.227,0,0,Bladder Cancer,Soft Tissue
+P-0063373,5.819,0,0,Germ Cell Tumor,Lung
+P-0063528,5.984,0,0,Pancreatic Cancer,Liver
+P-0063532,5.984,0,0,Uterine Sarcoma,Lung
+P-0063545,5.49,0,0,Bladder Cancer,Lymph node
+P-0063651,2.499,1,0,Salivary Gland Cancer,Lung
+P-0063662,3.222,0,0,Appendiceal Cancer,Peritoneum
+P-0063851,5.688,0,0,Bladder Cancer,Lung
+P-0063875,5.458,0,0,Breast Cancer,Bone
+P-0063882,5.293,0,0,Uterine Sarcoma,Liver
+P-0063950,4.8,0,0,Breast Cancer,LN
+P-0063969,0.953,0,0,Breast Cancer,Lung
+P-0064090,5.326,0,1,Esophagogastric Cancer,Soft Tissue
+P-0064231,5.392,0,0,Prostate Cancer,Bone
+P-0064311,5.326,0,0,Embryonal Tumor,CSF
+P-0064596,5.063,0,0,Breast Cancer,Bone
+P-0064599,4.833,0,0,Bladder Cancer,Bone
+P-0064630,3.616,0,0,Non-Small Cell Lung Cancer,Brain
+P-0064684,4.373,0,0,Breast Cancer,Brain
+P-0065006,4.767,0,0,Bladder Cancer,Lung
+P-0065101,4.636,0,0,Pancreatic Cancer,Peritoneum
+P-0065174,4.636,0,1,Colorectal Cancer,Liver
+P-0065261,4.405,0,1,Esophagogastric Cancer,Brain
+P-0065588,3.255,1,0,Breast Cancer,CSF
+P-0065589,4.011,0,1,Endometrial Cancer,Mesentery
+P-0065598,3.912,0,0,Ovarian Cancer,Lung
+P-0065728,0.789,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0065754,4.142,0,0,Endometrial Cancer,Lymph Node
+P-0066118,3.452,0,0,Breast Cancer,Skin
+P-0066249,3.452,0,1,Bladder Cancer,Lung
+P-0066272,3.616,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0066345,3.616,0,0,Non-Small Cell Lung Cancer,Chest wall
+P-0066462,3.386,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0066821,2.104,0,0,Non-Small Cell Lung Cancer,Pleura
+P-0066894,0.0,0,0,Cancer of Unknown Primary,Liver
+P-0067090,2.499,0,0,Non-Small Cell Lung Cancer,Lymph Node
+P-0067172,2.63,0,0,Bladder Cancer,Lymph Node
+P-0067323,2.104,0,0,Endometrial Cancer,Soft Tissue
+P-0067362,2.268,0,0,Breast Cancer,Bone
+P-0067637,2.268,0,0,Bladder Cancer,Lymph Node
+P-0067801,1.512,0,1,Prostate Cancer,Peritoneum
+P-0067938,2.104,0,0,Breast Cancer,Liver
+P-0068023,2.038,0,0,Esophagogastric Cancer,Bone
+P-0068164,1.447,0,0,Soft Tissue Sarcoma,Lymph Node
+P-0068726,0.822,0,0,Thyroid Cancer,Lymph Node
+P-0068770,1.249,0,0,Breast Cancer,Bone
+P-0069608,0.197,0,0,Esophagogastric Cancer,Liver

@@ -1,0 +1,2 @@
+﻿cohort,platform,pairs,discordant,discordance_pct,ci_lo,ci_hi,note
+AURORA_US_breast_WES,WES (SNV/indel only),48,19,39.58,27.02,53.69,independent of MSK; single tumour type; no CNA amplification

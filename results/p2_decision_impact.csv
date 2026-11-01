@@ -1,0 +1,3 @@
+metric,k,n,pct,lo,hi
+missed_if_primary_only,284,2278,12.47,11.17,13.89
+missed_if_metastasis_only,151,2278,6.63,5.68,7.73

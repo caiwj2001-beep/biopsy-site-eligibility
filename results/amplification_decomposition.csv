@@ -1,0 +1,3 @@
+﻿direction,total,amplification_only,snv_and_amplification,snv_only,amp_only_pct
+met_only (lost if primary-tested),284,99,26,159,34.9
+primary_only (lost if metastasis-tested),151,37,17,97,24.5

@@ -1,0 +1,3 @@
+﻿cohort,same_organ_pairs,same_organ_discordant,same_organ_pct,cross_organ_pairs,cross_organ_discordant,cross_organ_pct
+all_patients,555,62,11.17,992,152,15.32
+restricted_to_paired_cohort,115,12,10.43,201,25,12.44

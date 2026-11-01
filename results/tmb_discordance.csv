@@ -1,0 +1,2 @@
+metric,cross_n,cross_k,cross_pct,cross_lo,cross_hi,noise_n,noise_k,noise_pct,noise_lo,noise_hi,excess_pp,excess_lo,excess_hi
+TMB_H_10,2272,247,10.87,9.66,12.22,555,42,7.57,5.65,10.07,3.3,0.7,5.83

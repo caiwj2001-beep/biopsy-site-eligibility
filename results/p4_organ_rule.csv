@@ -1,0 +1,12 @@
+organ,cross_n,cross_k,cross_pct,cross_lo,cross_hi,noise_n,noise_k,noise_pct,excess_pp,excess_lo,excess_hi,rule_verdict
+Lymph Node,419,86,20.53,16.93,24.65,140,19,13.57,6.95,0.04,13.38,uncertain
+Liver,397,77,19.4,15.81,23.57,195,21,10.77,8.63,2.54,14.25,uncertain
+Lung,256,49,19.14,14.79,24.4,63,9,14.29,4.85,-5.82,14.72,uncertain
+Bone,190,38,20.0,14.93,26.26,31,6,19.35,0.65,-16.4,15.13,uncertain
+Unspecified,157,30,19.11,13.73,25.97,0,0,,,,,insufficient
+Brain,131,19,14.5,9.49,21.54,42,1,2.38,12.12,4.4,19.08,uncertain
+Soft Tissue,92,15,16.3,10.14,25.17,6,0,0.0,,,,insufficient
+Pleura,78,10,12.82,7.12,22.02,19,4,21.05,-8.23,-28.0,10.12,uncertain
+Pelvis,41,9,21.95,12.0,36.71,5,0,0.0,,,,insufficient
+Skin,39,5,12.82,5.6,26.71,15,2,13.33,-0.51,-21.54,16.45,insufficient
+Peritoneum,36,6,16.67,7.87,31.89,1,0,0.0,,,,insufficient

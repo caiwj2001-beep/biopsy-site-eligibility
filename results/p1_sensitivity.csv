@@ -1,0 +1,3 @@
+subset,cross_n,cross_k,cross_pct,noise_n,noise_k,noise_pct,excess_pp,excess_lo,excess_hi
+same_panel,1526,285,18.68,323,22,6.81,11.87,8.31,15.25
+coverage_ge200,2176,420,19.3,532,60,11.28,8.02,4.81,11.07

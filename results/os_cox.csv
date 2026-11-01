@@ -1,0 +1,5 @@
+analysis,group,n,median_os_months,deaths,death_pct,HR,HR_lo,HR_hi,p
+descriptive,discordant,422.0,28.1,194.0,46.0,,,,
+descriptive,concordant,1787.0,27.0,842.0,47.1,,,,
+cox_adjusted,discordant_vs_concordant,2209.0,,,,0.966,0.822,1.135,0.6734816732069029
+schoenfeld,discordant,,,,,,,,0.9887328238955075

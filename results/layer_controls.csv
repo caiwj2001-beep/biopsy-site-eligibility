@@ -1,0 +1,7 @@
+﻿layer,n,discordant,pct,pct_standardised
+L1_primary_vs_metastasis,2278,435,19.1,18.86
+L2_same_organ_replicates,555,62,11.17,11.03
+L3_same_patient_different_organs,992,152,15.32,14.78
+L1_SNVonly,2278,403,17.69,17.52
+L2_SNVonly,555,67,12.07,11.64
+L3_SNVonly,992,137,13.81,13.98
